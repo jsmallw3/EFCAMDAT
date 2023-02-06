@@ -1,0 +1,154 @@
+,learner_id,grades,nationality,writing_id,levels,unit,topic_id,topic_text,passage,query_sentence
+0,77844,89.0,kr,5689,2,2,10,Writing a birthday invitation,"
+      Hi! Im 12 on Saturday. Im having a party at my house. Lets eat pizza, computer game. The party starts at 12:30. Hope you can come! jung sung-bin
+    ","Lets eat pizza , computer game ."
+1,114564,50.0,kr,6029,4,2,26,Describing routines,"
+      Sean plays basketball every afternoon. plays computer games at 6pm. Watches movies on saturdays at 5pm. Granny Does laundry on Tuesday afternoon. Does gardining in the morning. Sets the table at 6pm. You -feed the dog at 8am every day. -walk the dog in the afternoon. -feed the dog again at 5pm every day.
+    ",plays computer games at 6pm .
+2,114564,50.0,kr,6029,4,2,26,Describing routines,"
+      Sean plays basketball every afternoon. plays computer games at 6pm. Watches movies on saturdays at 5pm. Granny Does laundry on Tuesday afternoon. Does gardining in the morning. Sets the table at 6pm. You -feed the dog at 8am every day. -walk the dog in the afternoon. -feed the dog again at 5pm every day.
+    ",Does gardining in the morning .
+3,114564,50.0,kr,6029,4,2,26,Describing routines,"
+      Sean plays basketball every afternoon. plays computer games at 6pm. Watches movies on saturdays at 5pm. Granny Does laundry on Tuesday afternoon. Does gardining in the morning. Sets the table at 6pm. You -feed the dog at 8am every day. -walk the dog in the afternoon. -feed the dog again at 5pm every day.
+    ",Sets the table at 6pm .
+4,30901,89.0,kr,25066,7,2,50,Planning for the future,"
+      First, I think the best way to get experience is a work placement during the university break. I'm going to find out place(company) to get work experinece. Next, I'm going to get out into the world and learn about another culture & language. Another thing I serch and contact to Peace Corps to get voluteer careers because the volunteering is good way to improve a CV. The fourth stage of my plan is making a fantasy CV. Sounds like a great idea. Finally, I will practice doing job interview.
+    ",Sounds like a great idea .
+5,19749,70.0,kr,76083,10,8,80,Giving feedback about a colleague,"
+      HaengKHas good decision-making skills under pressure. Sometimes puts off passing key information to co-workers or keeping up with paperwork. Can work well with certain members of his team but appears to have fallen out with one or two of them since the exhibition. Not always good at listening to other people's ideas, but often has lots of creative ideas himself. I wonder if we'll regret promoting him so soon.- SunnyIs hard worker in any situation. deals with very difficult problems well. has communication skill in English, is a good presenter and negotiator. will be one of good co-workers.
+    ","has communication skill in English , is a good presenter and negotiator ."
+6,54455,96.0,kr,136764,3,6,22,Writing your online profile,"
+      Name: Mindy Age: 21 Birthday: 20 Febraury Like doing: I like listening to music and singing. Lives in: Daegu, Korea Favorite Season: winter Animal: dog Day: Friday Number: 3 and 5 I can drive but I can't ride a horse.
+    ","Lives in : Daegu , Korea Favorite Season : winter Animal : dog Day : Friday Number : 3 and 5 I can drive but I ca n't ride a horse ."
+7,63784,85.0,kr,139486,7,1,49,Giving instructions to play a game,"
+      Divide the group into two teams. Line up each team 5 meters from a large bin. Give each team two ping-pong balls, tennis balls, volleyballs, basket balls, golf balls, rugby balls, baseballs and soccer balls. The first player throws one type of ball into the bin. If succesful, put aside it. But if not, give it to the next player. Then the player goes to the end of the line waiting for another try with different type of ball. Rule : throw one per player, one type at a time. Wins the game : get one of each type into the bin.
+    ",Wins the game : get one of each type into the bin .
+8,97779,79.0,kr,140774,4,1,25,Writing about what you do,"
+      I'm student. I go to university but I'm vacasion, now. nowadays, I study C language, android, english. english is very difficult. a few minute ago, I join in groupconversation but I can't understand teacher's talk. and join is very afraid. ah! I take care of hamster. hamster's name is ??,??. very cute. I love hamster. ?? is incurable skin disease. but cure a skin disease. very health, now.
+    ",is incurable skin disease .
+9,97779,95.0,kr,140775,4,2,26,Describing routines,"
+      Always take care of Hamster's. Every second day, Hamster's gives water. Hamster's gives food, every day. Cleans the house every day. Does the laundry once a second day. Does the gardening every day in the afternoon. Does ironing every second day in afternoon. Washes the dishes every day in the morning.
+    ",Does the laundry once a second day .
+10,97779,95.0,kr,140775,4,2,26,Describing routines,"
+      Always take care of Hamster's. Every second day, Hamster's gives water. Hamster's gives food, every day. Cleans the house every day. Does the laundry once a second day. Does the gardening every day in the afternoon. Does ironing every second day in afternoon. Washes the dishes every day in the morning.
+    ",Does the gardening every day in the afternoon .
+11,97779,95.0,kr,140775,4,2,26,Describing routines,"
+      Always take care of Hamster's. Every second day, Hamster's gives water. Hamster's gives food, every day. Cleans the house every day. Does the laundry once a second day. Does the gardening every day in the afternoon. Does ironing every second day in afternoon. Washes the dishes every day in the morning.
+    ",Does ironing every second day in afternoon .
+12,97779,95.0,kr,140775,4,2,26,Describing routines,"
+      Always take care of Hamster's. Every second day, Hamster's gives water. Hamster's gives food, every day. Cleans the house every day. Does the laundry once a second day. Does the gardening every day in the afternoon. Does ironing every second day in afternoon. Washes the dishes every day in the morning.
+    ",Washes the dishes every day in the morning .
+13,135030,90.0,kr,142908,10,1,73,Helping a friend find a job,"
+      Dear Anna.I think Zookeeper is the best for you. You know, you love animals and take care of them. Also, you can get a $50,000 for a month. Isn't it good pay!! And you like holiday, right? This is the good news. They give a one month holiday every year. A one month! But you have to know the animals feeding on a daily basis and you have feed the wild crocodile.
+    ",Is n't it good pay !
+14,28049,90.0,kr,171343,2,4,12,Buying clothes from a catalog,"
+      Creamium has over 25 years of history in the ice cream industry. The alliance with Creamium will give our company luxurious brand image along with expansion in Asia.Gonuts! is  new entrant in the American donut industry. The alliance with Gonuts! will give our company challenging brand image especially on the east coast of America.
+    ",is new entrant in the American donut industry .
+15,35687,68.0,kr,253272,4,2,26,Describing routines,"
+      Clara Surfs internet every day. Listens musics every morning Watches the TV every evening. Does laundry on Saturday evening. Mops the floor on Sunday morning. Feed the cat at 8am every day. Feed the cat at 10pm every day Plays with the cat in the afternoon Plays the violin on once a month.
+    ",Listens musics every morning Watches the TV every evening .
+16,35687,68.0,kr,253272,4,2,26,Describing routines,"
+      Clara Surfs internet every day. Listens musics every morning Watches the TV every evening. Does laundry on Saturday evening. Mops the floor on Sunday morning. Feed the cat at 8am every day. Feed the cat at 10pm every day Plays with the cat in the afternoon Plays the violin on once a month.
+    ",Mops the floor on Sunday morning .
+17,167227,93.0,kr,265279,4,1,25,Writing about what you do,"
+      I'm Mrs.song. I'm a pharmacist. I work at a drug store during 9 a.m.-1 p.m. It's parttime job. I like my job because time to work is flexible and money is good. Sometimes my job is tiring. Because I always stand up for making many medicines. Sometimes it's rewarding. Because I help many people and talk to patients about their disease and more healthy life. I love my job.
+    ",Sometimes it 's rewarding .
+18,66866,85.0,kr,294128,4,2,26,Describing routines,"
+      Sean Plays basketball every afternoon. Plays computer games at 6pm. Watches movies on saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardning in the morning. Sets the table at 6pm. You -feed the dog at 8am every day. -walk the dog in the afternoon -feed the dog again at 5pm every day.
+    ",Plays computer games at 6pm .
+19,66866,85.0,kr,294128,4,2,26,Describing routines,"
+      Sean Plays basketball every afternoon. Plays computer games at 6pm. Watches movies on saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardning in the morning. Sets the table at 6pm. You -feed the dog at 8am every day. -walk the dog in the afternoon -feed the dog again at 5pm every day.
+    ",Does gardning in the morning .
+20,66866,85.0,kr,294128,4,2,26,Describing routines,"
+      Sean Plays basketball every afternoon. Plays computer games at 6pm. Watches movies on saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardning in the morning. Sets the table at 6pm. You -feed the dog at 8am every day. -walk the dog in the afternoon -feed the dog again at 5pm every day.
+    ",Sets the table at 6pm .
+21,55085,96.0,kr,306124,4,2,26,Describing routines,"
+      sean plays basretball every afternoon. plays computer games at 6pm. Watches movies on Saturdays at 5pm.
+    ",plays computer games at 6pm .
+22,47530,94.0,kr,307347,1,8,8,Making a dinner party menu,"
+      HI! friends!This is the starter vegetables and the main menu chicken .Dessert is a cake and drink is the wine.What do you think about this menu?If you have any questions, please call me.
+    ",friends !
+23,5639,92.0,kr,389248,5,1,33,Planning to attend a music festival,"
+      i'm going to go to a music festival. i'll  camping, so i'm taking a tent, sleeping back, back pack. starts at 49 pounds. i'm going to listen to pop music
+    ",starts at 49 pounds .
+24,55793,85.0,kr,463078,1,5,5,Updating your online profile,"
+      Dear Sir, Thank you for giving your encouragement. I am summarizing today's presentation for your request. I am sure that you are interested in my presentation and contents. It's interesting fact about our business plan. My presentation is splited of 3 parts. Firstly, I am going to introduce briefly my company history. then, I am going to talk about 5 yr sales history Finally, I am going to tell you my business stratey of our company future. After reviewing my presentation, I hope to get your feedback. I hope my presentation would be benefitial to your goal set up. I appreciate your attention. Thanks a lot. Best regards, SK
+    ",Thanks a lot .
+25,55793,89.0,kr,463079,2,5,13,Making notes for a visitor,"
+      Hello, everyone. Welcome on board! I am glad to see all of you at Frisko Shipping. I'd like to begin by wishing a warm welcome to all of you. As you know well, FS is one of famous global shipping companies in the world. To know more FS, I'd like to start by giving a little quiz.First, when was FS started? Second, who is founder? Third, how many branches do we have all over the world?You've done well. If I can draw your attention to this presentation, you can see the bright of FS's current and past history. Consequently, you should be motivated and enthusiastic with us......I'd like to show by giving a brief anecode about Bill Frisko.Whild in his mid-twenties, Bill fell into the sea while fishing and was bitten by a shark. Truly, at that time he thought his life was over. However, the shark decided it wasn't hungry. Bill was barely saved. It was imspired him to begin his own shipping company. Let think about the moral of his anecode. What can you learn from this? Thing about it?Any questions? Thanks a lot.
+    ",Thanks a lot .
+26,161504,95.0,kr,497150,4,1,25,Writing about what you do,"
+      I'm a undergraduate student. My major is electrics. I like my major because it's very exciting and interesting. In my major, many branches are exist. Specially I study about semiconductor devices. It's very difficult and has massive information. Sometimes It's to tired to study but, I usually enjoy my studies.
+    ","Sometimes It 's to tired to study but , I usually enjoy my studies ."
+27,44592,96.0,kr,506566,4,2,26,Describing routines,"
+      son Plays basketball every day in the afternoon. Does homework before playing basketball, every day. Wathes movies on Saturday night. Goes to bed at 11:00pm, every day! dauther Does yogar from Monday to Wednesday moring. Plays piano every day in the evening. Sets the table every eveing while you make dinner. You Does the laundry on Tuesday. Does the housework everyday because my children hate a dirty house. Make dinner and then does the dishes every evening. Feeds the dog every moring. Washes the dog on Friday night.
+    ",Sets the table every eveing while you make dinner .
+28,44592,96.0,kr,506566,4,2,26,Describing routines,"
+      son Plays basketball every day in the afternoon. Does homework before playing basketball, every day. Wathes movies on Saturday night. Goes to bed at 11:00pm, every day! dauther Does yogar from Monday to Wednesday moring. Plays piano every day in the evening. Sets the table every eveing while you make dinner. You Does the laundry on Tuesday. Does the housework everyday because my children hate a dirty house. Make dinner and then does the dishes every evening. Feeds the dog every moring. Washes the dog on Friday night.
+    ",Does the housework everyday because my children hate a dirty house .
+29,44592,96.0,kr,506566,4,2,26,Describing routines,"
+      son Plays basketball every day in the afternoon. Does homework before playing basketball, every day. Wathes movies on Saturday night. Goes to bed at 11:00pm, every day! dauther Does yogar from Monday to Wednesday moring. Plays piano every day in the evening. Sets the table every eveing while you make dinner. You Does the laundry on Tuesday. Does the housework everyday because my children hate a dirty house. Make dinner and then does the dishes every evening. Feeds the dog every moring. Washes the dog on Friday night.
+    ",Feeds the dog every moring .
+30,44592,96.0,kr,506566,4,2,26,Describing routines,"
+      son Plays basketball every day in the afternoon. Does homework before playing basketball, every day. Wathes movies on Saturday night. Goes to bed at 11:00pm, every day! dauther Does yogar from Monday to Wednesday moring. Plays piano every day in the evening. Sets the table every eveing while you make dinner. You Does the laundry on Tuesday. Does the housework everyday because my children hate a dirty house. Make dinner and then does the dishes every evening. Feeds the dog every moring. Washes the dog on Friday night.
+    ",Washes the dog on Friday night .
+31,47736,95.0,kr,526912,1,1,1,Introducing yourself by email,"
+      Hi, My name is park hyang ju. My english name is Tracy. My phone number is zero one zero two zero five nine seven five three seven. I'm 35 years old. I am a computer programmer. I'm married and i have one daughter and one son. Umm- I'm happy because  Englishtown. is my english study started. Thank you
+    ",is my english study started .
+32,70917,89.0,kr,530135,2,1,9,Describing your favorite day,"
+      My favorite day of the week is friday. Meet my family because then if. Enjoys the kids and play on saturday. The kids and I wake up in the morning, yake a shower and brush your teeth after eating breakfast. Around 10 o'clock go shopping and see a movie. Eating lunch at 1:00 and go home 3 o'clock. Shower at home watching TV and go to bed at nine o'clock.
+    ",Enjoys the kids and play on saturday .
+33,33849,90.0,kr,606380,5,1,33,Planning to attend a music festival,"
+      Hello guys. I'm going this weekend to a music festival. In February 23th. The ticket for one person for $20. Im going to listen to pop and dance music. The people is celebrating by dancing and drinking. Ill wearing a T-shirt and shorts. Is it outdoor festival. Maybe itll rain so Im taking a raincoat.
+    ",Is it outdoor festival .
+34,55375,90.0,kr,638693,1,6,6,Signing up for a dating website,"
+      I like Korean food.the food tastes really good.really like is korean beef.I'm from korea,I live in kimfoo city. is a restaurant the food really good.our salad is Ok.good.
+    ",is a restaurant the food really good.our salad is Ok.good .
+35,135925,100.0,kr,674535,2,4,12,Buying clothes from a catalog,"
+      #Creanim . brand leader . has a luxury brand . over 25 years in the business . Started from Europe . hopes to increase market share in Asia over the next 5 years #Gonuts! . has dominated the American donut industry . hope to export its product abroad . before that, hopes to gain a bigger market share on the east coast of America
+    ",has a luxury brand .
+36,135925,100.0,kr,674535,2,4,12,Buying clothes from a catalog,"
+      #Creanim . brand leader . has a luxury brand . over 25 years in the business . Started from Europe . hopes to increase market share in Asia over the next 5 years #Gonuts! . has dominated the American donut industry . hope to export its product abroad . before that, hopes to gain a bigger market share on the east coast of America
+    ",hopes to increase market share in Asia over the next 5 years # Gonuts !
+37,135925,100.0,kr,674535,2,4,12,Buying clothes from a catalog,"
+      #Creanim . brand leader . has a luxury brand . over 25 years in the business . Started from Europe . hopes to increase market share in Asia over the next 5 years #Gonuts! . has dominated the American donut industry . hope to export its product abroad . before that, hopes to gain a bigger market share on the east coast of America
+    ",has dominated the American donut industry .
+38,43464,70.0,kr,737098,8,2,58,Reviewing a song for a website,"
+      The office culture where I work is very casual. The Average age of all employees is about 30. And we have a birthday party every month for who was born the month.  And  people who take initiative at work can be recognized. That's the why workstyle in my company is quite hard. Most people are work overtime. But almost people don't think that they don't want to do it as they love their work. Somtimes it can cause some healthy problems. To tell the truth, I know three people,more or less who having trouble with their body like backache.
+    ",Somtimes it can cause some healthy problems .
+39,69976,95.0,kr,765319,2,4,12,Buying clothes from a catalog,"
+      Creamium - Brand Leader in ice cream industry - Long history as over 25 years business in this industry - Luxurious brand image ==> After alliances serving Creamium in our airlines as a dessert, we will be able to strengthen our premium and luxurious brand image. Gonuts! - Donut company - very Hot and New company - Won from competition with other donut makers - But they want to test on the east cost of US before export to out of US ==> It may not be perfectlly fitting to our company.%% Even though it has hot image and dominant these days, we think this is just fast fashion. We will try to find other company for longer relationship.
+    ",Gonuts !
+40,16265,80.0,kr,782239,2,2,10,Writing a birthday invitation,"
+      Hi. there I know there is bad weather. I'm sorry about you are bored days . Is there theater near your location. should you go to the movie theater or play the video game and card game. It's your favorite. tommrrow I am goint to the camping on vacation. I am go to the river near my friend's house. and go swimming with my family. take care in the hot weather.
+    ",Is there theater near your location .
+41,141768,100.0,kr,795276,10,2,74,Doing a survey about discrimination,"
+      There are still not only gender differences but also common point in everywhere. Men usually make his living for family. Women almost take care for home. On modern, social is changed to be complicated.So the role of men and women can't separate. The role seems to have no choice but to mix. Most wives go out to earn money to live their life rich. Why is gender quality important? The reason is that male and female work equally. Sometimes most men help home choirs to clean their place. Who reward the children who have met no one to welcome when they come back home?
+    ",Women almost take care for home .
+42,107168,95.0,kr,844189,2,2,10,Writing a birthday invitation,"
+      Too bad weather! I'm sorry about the weather. What about going to the movies. You like science fiction movies. Is there any movie near your room. What about going shopping. You should buy somethings for me. Have a good time.
+    ",Is there any movie near your room .
+43,85515,95.0,kr,848132,2,6,14,Telling someone what you're doing,"
+      I'm living in an apartment with my family. It's not bad, but pretty old. It was built around 17 years ago. So, I remodeled my apartment a few years ago. Now every places are much better than the past. The living room is very comfortable. There's a samrt TV. The kitchen is mid-sized, and it has a good fridge and microwave. The bathroom is ugly. When I remodeled it, I choose quite cheap dorky tiles. If I save enough money someday, I'm going to change the tiles. Sometimes it gets noisy because it is near the street and the traffic. But it's a great neighborhood.
+    ",Sometimes it gets noisy because it is near the street and the traffic .
+44,164453,90.0,kr,964980,2,5,13,Making notes for a visitor,"
+      Good morning, everyone. I am very happy to have this chance to give my presentation. Today I will share about TSC team FY13 review and FY14 objectives and goals. &quot;. OK, lets start. ? Let me introduce the outline first, my presentation will be given in five parts: the first part Team Role. And the second part relates SR Creation. In the third part, LP/MP Service Visit. And in the fourth part, Call Center ? Finally, FY14 Objectives and Goals Well, let's move on to the first part---TSC organization chart with Team role. In this part, I want to introduce TSC team members. SR Parks role is Excimer LP/MP Service and call center agent. Moving on next presentation of FY13 TSC team review about SR creation. As you can see on this presentation, TSC team has created about 110 SR in average. Total number of SR created are 1340. Regarding collection plan completeness, most of data are green, which means acceptable, but some red indicates that below its target. On this chart, I would like to tell you that the data is getting better and better. Lets look at the Next collection plan timeliness with range. This data is showing that upload data is getting shorter and shorter.%% Moving on next slides, lets review TSC teams LP/MP Service visit. This bar chart show that # of visits, labor hour, and travel hours. Q1, TSC team has field visit was 40 times per quarter, 237.5 hours labor and 206 travel hour. In total, TSC team has 111 of # of vist, 803.5 hour labor, 628h travel time. Lets look at the MP/LP visit and 1st time fix rate. According to this chart, TSC team has 82% of fix rate. As you know 1st time fix rate is fix the problem with first time service visit. Moving on to next presentation, regarding call center overview. We have 9 Call center agents with TSC and EO service. Lets look at call center answering rate result here. Most of month, the answering rate is over than its target, except April and May. On this period of time, service visit has extensively increased, On May, many engineer has oversea field visit and as a results the answering rate was lower than its target. From this low answering rate, we set up counter plan as control call center agents schedule, Training to call center agent. And requested to IT that call can be forward to agents mobile phone. This option is still waiting from IT. The good thing is that from june to September, we have good answering rate so far. Finally, TSC teams FY14 goal and objectives. Firstly, Excimer MP/LP one time resolutions target is higher than 85%. Second goal is call center answering rate is higher than 85% and increase of incoming call more than 100 call per months. Recently the coherent korea representative phone number has been set up of link to call center by IT, And this will be increase # of incoming call to call center. Third goal is Excimer data upload to CRM. Upload efsr on timely and its targets are below than 7 days and accuracy up to 90%. To achieve this goal, we need other Excimer service engineer help are necessary by sending service report on timely. Fourth goals are e-survey as return rate target as higher than 25%, and every by-weekly basis sent of e-survey. Last goal is Spare part quotation as minimize error on quotation. Thats all for today! Thanks!
+    ",Lets look at call center answering rate result here .
+45,49108,90.0,kr,972025,6,4,44,Writing a resume,"
+      Hi, Misun There was directors meeting in head office yesterday. All of directors were there expect Mr. Lee. subjects 1. Approve financial statements at the ended March 31 2012 2. Approve budgets of this year. 3. How to distribute new contracts made by The Financial Supervisory Service => assign points by sales,  distribute new contracts to each teams in a low from a highest point team. 4. work shop schedule administration team chose some possible days and select a day after questioning all attendantsm. 5. report member firm contract. PKF will visit us to assess our qualification next month I'll tell you more on next Monday! JRKIM
+    ",subjects 1 .
+46,63216,40.0,kr,973268,5,2,34,Writing a holiday postcard,"
+      has been with the seasons: seasonal specialties.
+    ",has been with the seasons : seasonal specialties .
+47,29270,70.0,kr,973288,4,4,28,Writing about what you like doing,"
+      i was born in 1987. i graduated from high school i was 18 and went to college. i not a car. is planning to buy next year i also got my first job. foreign construction companies. i'm single. when ability to economically, will marry i best to live in reality
+    ",is planning to buy next year i also got my first job .
+48,29270,80.0,kr,973297,6,5,45,Writing on the family blog,"
+      The company's sales are increasing. There is one problem, but our company. It's just a matter of employment. Is small compared to the number of employee turnover. Increasing the number of sales is limited as long as you can produce. If you pull more employees to meet sales increase in production can be expected. There is no disadvantage. I hope this proposal want me.
+    ",Is small compared to the number of employee turnover .
+49,127108,95.0,kr,1192702,5,5,37,Filling out an insurance claim form,"
+      I just saw 'Rear Window.' What an amazing movie! 'Rear Window' was made in 1954 and was directed by the famous Alfred Hitchcock. 'Rear Window' is a dark story, like most Hitchcock movies. L.B. Is played by James stewart. L.B. Is a photographer, but his leg is broken. He has to stay home, so he watches his neighbors through their windows. I felt sorry for his poor neighbors! Soon, L.B. Begin using his camera to fight evil. i saw the remark in 1998, but it's not the same.
+    ",Is played by James stewart .
+50,127108,95.0,kr,1192702,5,5,37,Filling out an insurance claim form,"
+      I just saw 'Rear Window.' What an amazing movie! 'Rear Window' was made in 1954 and was directed by the famous Alfred Hitchcock. 'Rear Window' is a dark story, like most Hitchcock movies. L.B. Is played by James stewart. L.B. Is a photographer, but his leg is broken. He has to stay home, so he watches his neighbors through their windows. I felt sorry for his poor neighbors! Soon, L.B. Begin using his camera to fight evil. i saw the remark in 1998, but it's not the same.
+    ","Is a photographer , but his leg is broken ."

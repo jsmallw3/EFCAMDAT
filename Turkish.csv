@@ -1,0 +1,226 @@
+,learner_id,grades,nationality,writing_id,levels,unit,topic_id,topic_text,passage,query_sentence
+0,58564,35.0,tr,17690,4,2,26,Describing routines,"
+      Does feed the dog 7 a.m. every day. Does walk the dog in the morning. Does walk the dog again in the afternoon and in the evenings. Does feed the dog 5 p.m. every day.
+    ",Does walk the dog in the morning .
+1,58564,35.0,tr,17690,4,2,26,Describing routines,"
+      Does feed the dog 7 a.m. every day. Does walk the dog in the morning. Does walk the dog again in the afternoon and in the evenings. Does feed the dog 5 p.m. every day.
+    ",Does walk the dog again in the afternoon and in the evenings .
+2,56302,98.0,tr,72325,2,2,10,Writing a birthday invitation,"
+      Hi, Im 25 years old on Sunday, July 6th. Im having a party at my house. Lets eat cake, dance, sing and drink. The party starts at 7 o'clock. Hope you can come!' Suat
+    ","Lets eat cake , dance , sing and drink ."
+3,27725,90.0,tr,106734,4,2,26,Describing routines,"
+      I play basketball every week.I play computer game everyday.I watch movies at night.I walk the dog in the evening.I feed the dog every afternoon.I set the table every week.I do laundry every month. I never do housework. Ido the ironing every year.I make the bed ever day.
+    ",Ido the ironing every year.I make the bed ever day .
+4,154317,95.0,tr,155757,2,3,11,Writing a weather guide for your city,"
+      Istanbul is magnificent in sipring, summer, autumn and winter. In summer the weather is hot and sunny. We go to swim and play soccer, volleyball in beach. In spring it's warm and sunny. Sometimes it's cool and cloudy. In spring we usually go park and sometimes play basketball with friends. In winter it's usually cold and snowy. In autumn allways it's cool and windy. Sometimes it's rainy.
+    ",Sometimes it 's cool and cloudy .
+5,154317,95.0,tr,155757,2,3,11,Writing a weather guide for your city,"
+      Istanbul is magnificent in sipring, summer, autumn and winter. In summer the weather is hot and sunny. We go to swim and play soccer, volleyball in beach. In spring it's warm and sunny. Sometimes it's cool and cloudy. In spring we usually go park and sometimes play basketball with friends. In winter it's usually cold and snowy. In autumn allways it's cool and windy. Sometimes it's rainy.
+    ",Sometimes it 's rainy .
+6,154317,95.0,tr,155771,4,1,25,Writing about what you do,"
+      I'm a mining engineer and I work in a big factory. My job is excentig because it's have a big process and many big machines. Sometimes it's boring and tiring because I work long hours for fixing the problems, but I love my job.
+    ","Sometimes it 's boring and tiring because I work long hours for fixing the problems , but I love my job ."
+7,123003,88.0,tr,164752,2,2,10,Writing a birthday invitation,"
+      Hi! It is my birthday on saturday, septenber 13. I am having apart at my house. Lets celebrate, eat cake, sing and dance. Party starts at 6 o'clock in the evenning. Hope you can come Fahri
+    ","Lets celebrate , eat cake , sing and dance ."
+8,88872,89.0,tr,175684,2,1,9,Describing your favorite day,"
+      Hi, my name's Nazim. I'm a student. My favorite day is sunday. Igut up at 10 o'clock in the morning on Sunday, have ashower, brush my teeth. I have lunch at one o'clock, in afternoon. I play fotboll, in the evening. I go to bed at eleven o'clock.
+    ","Igut up at 10 o'clock in the morning on Sunday , have ashower , brush my teeth ."
+9,9140,95.0,tr,183813,2,5,13,Making notes for a visitor,"
+      Welcome to my home sweety! I wrote some tips for you:There is a grocery next to the house. The bus station is on Ergenekon Street. And there is a hospital opposite the house if necessary (god forbid!). Kisses!
+    ",Kisses !
+10,43934,88.0,tr,188653,7,1,49,Giving instructions to play a game,"
+      Hi children, we learn different and exciting game. The game name is hide-and-seek. There are some rules about the game. This game play 8 or 10 children. One child is it. other children run and hide. it find other children. this is very funny game. it seek everywhere and have to find every children. this is very hard part of the game. if it find every child, it will win the game but all of children escape from it. lets play this game.
+    ",lets play this game .
+11,40053,95.0,tr,192422,4,2,26,Describing routines,"
+      Gulcan, feeds the dog at 7 am and 7pm every day. walks the dog every afternoon. mops the floor every day. makes the housework in the morning. does the laundry every Friday. makes the ironning at the weekend. does the gardening Saturdays. Makes dinner at 8pm every day. Does the shopping Wednesdays.
+    ",mops the floor every day .
+12,40053,95.0,tr,192422,4,2,26,Describing routines,"
+      Gulcan, feeds the dog at 7 am and 7pm every day. walks the dog every afternoon. mops the floor every day. makes the housework in the morning. does the laundry every Friday. makes the ironning at the weekend. does the gardening Saturdays. Makes dinner at 8pm every day. Does the shopping Wednesdays.
+    ",makes the housework in the morning .
+13,40053,95.0,tr,192422,4,2,26,Describing routines,"
+      Gulcan, feeds the dog at 7 am and 7pm every day. walks the dog every afternoon. mops the floor every day. makes the housework in the morning. does the laundry every Friday. makes the ironning at the weekend. does the gardening Saturdays. Makes dinner at 8pm every day. Does the shopping Wednesdays.
+    ",does the laundry every Friday .
+14,40053,95.0,tr,192422,4,2,26,Describing routines,"
+      Gulcan, feeds the dog at 7 am and 7pm every day. walks the dog every afternoon. mops the floor every day. makes the housework in the morning. does the laundry every Friday. makes the ironning at the weekend. does the gardening Saturdays. Makes dinner at 8pm every day. Does the shopping Wednesdays.
+    ",makes the ironning at the weekend .
+15,40053,95.0,tr,192422,4,2,26,Describing routines,"
+      Gulcan, feeds the dog at 7 am and 7pm every day. walks the dog every afternoon. mops the floor every day. makes the housework in the morning. does the laundry every Friday. makes the ironning at the weekend. does the gardening Saturdays. Makes dinner at 8pm every day. Does the shopping Wednesdays.
+    ",does the gardening Saturdays .
+16,40053,95.0,tr,192422,4,2,26,Describing routines,"
+      Gulcan, feeds the dog at 7 am and 7pm every day. walks the dog every afternoon. mops the floor every day. makes the housework in the morning. does the laundry every Friday. makes the ironning at the weekend. does the gardening Saturdays. Makes dinner at 8pm every day. Does the shopping Wednesdays.
+    ",Does the shopping Wednesdays .
+17,119555,90.0,tr,196490,7,1,49,Giving instructions to play a game,"
+      8 meters X by 3 meters is used marked. Ten plastic bottles are used as the 'bowling pins' and they should be fiiled with a little water. The bottles are lined up in rows just like ten pin bowling. Each player take a frisbee and allowed to take two shots on each turn. Turns each player shots a total of ten. Each pin that knocked down is one point scored. If all the bottles are knocked down is strike scored, then the player takes two more shots. The winner is the player with the most points.
+    ",Turns each player shots a total of ten .
+18,27423,88.0,tr,199137,1,5,5,Updating your online profile,"
+      Hi! my name's Mustafa. I'm theerty-eight year old. I'm from urfa. I live in yalova. I like in yalova. I'am a teacher. I like job. I work in school.
+    ",I'am a teacher .
+19,32364,94.0,tr,201549,4,2,26,Describing routines,"
+      Can Plays water pool every evening at 8 pm. Does the homework in the afternoon. Plays piano on Wednesday at 3 pm. Suna Does laundry on Monday afternoon. Does the sopping in the morning. Sets the table at 7 pm. You -Feed the dog at 9 am every day. -Walk the dog in the afternoon. -Feet the dog again at 6 pm every day.
+    ",Does the homework in the afternoon .
+20,32364,94.0,tr,201549,4,2,26,Describing routines,"
+      Can Plays water pool every evening at 8 pm. Does the homework in the afternoon. Plays piano on Wednesday at 3 pm. Suna Does laundry on Monday afternoon. Does the sopping in the morning. Sets the table at 7 pm. You -Feed the dog at 9 am every day. -Walk the dog in the afternoon. -Feet the dog again at 6 pm every day.
+    ",Plays piano on Wednesday at 3 pm .
+21,32364,94.0,tr,201549,4,2,26,Describing routines,"
+      Can Plays water pool every evening at 8 pm. Does the homework in the afternoon. Plays piano on Wednesday at 3 pm. Suna Does laundry on Monday afternoon. Does the sopping in the morning. Sets the table at 7 pm. You -Feed the dog at 9 am every day. -Walk the dog in the afternoon. -Feet the dog again at 6 pm every day.
+    ",Does the sopping in the morning .
+22,32364,94.0,tr,201549,4,2,26,Describing routines,"
+      Can Plays water pool every evening at 8 pm. Does the homework in the afternoon. Plays piano on Wednesday at 3 pm. Suna Does laundry on Monday afternoon. Does the sopping in the morning. Sets the table at 7 pm. You -Feed the dog at 9 am every day. -Walk the dog in the afternoon. -Feet the dog again at 6 pm every day.
+    ",Sets the table at 7 pm .
+23,117119,87.0,tr,202943,5,4,36,Giving instructions to a house-sitter,"
+      gets up at 7 am . clean the house and sweep the house before breakfast.The dogs like to go for a walk two times every day.You can make coffee and eat a sandwich for breakfast.Please feed the birds and water the plants everyday.Don't forget to check birds's water two times a week.feed the fish three times a week.feed the dogs and clean the house before you go to bed.
+    ",gets up at 7 am .
+24,115575,95.0,tr,217041,4,1,25,Writing about what you do,"
+      I work in a office .I work about information tegnologies .I am a manager. I always have meetings I like my job. Sometimes it's boring, sometimes it's exciting. I like to determine a information strategy of the company . I like to help people about their computer problems and solve them.
+    ","Sometimes it 's boring , sometimes it 's exciting ."
+25,83174,97.0,tr,250700,2,2,10,Writing a birthday invitation,"
+      Hi! Im 19 on Sunday. Im having a party at my house. Lets eat cake, dance and sing. The party starts at 7:30. Hope you can come! Huseyin
+    ","Lets eat cake , dance and sing ."
+26,125420,94.0,tr,259573,4,3,27,Writing a party invitation,"
+      I am planning a party on next Sunday. Guests must speak English. It is English party. I invite 20 guests. Guest give a present about English, for example English novel, CD or magazine. All the guest will tell an English story. I'd buy some drinks and some foods. My wife make a cake.
+    ",Guests must speak English .
+27,125888,82.0,tr,265872,3,3,19,Renovating your home,"
+      My room is awesome.There are tv,table,bed,lamp and chair in my room.Table in front of the wall and tv on table. Walls the red.Bed is between lamp and table.Chair opposite bed.
+    ",Walls the red.Bed is between lamp and table.Chair opposite bed .
+28,27837,40.0,tr,296130,1,1,1,Introducing yourself by email,"
+      My name's Aze Ayse Gokkaya. Im Twenty nine yearse old. Im a journilist.
+    ",Im a journilist .
+29,85511,87.0,tr,296687,3,6,22,Writing your online profile,"
+      Name: Mine Age: 44 Birtday: 21 march Like doing: cooking,painting,yoga. Lives in: Istanbul,Turkey favorite season: spring time: morning Number: 8 i can dance but I can't sing.
+    ","Lives in : Istanbul , Turkey favorite season : spring time : morning Number : 8 i can dance but I ca n't sing ."
+30,44536,88.0,tr,307135,7,1,49,Giving instructions to play a game,"
+      Mark an area of about 8 meters x by 3 meters as the 'bowling alley'. use ten plastic bottles as the 'bowling pins'. fill them with water to make them heavier. line up the bottles in rows of 4, then 3, then 2, then 1- just like ten-pin bowling. Give each player a frisbee and allow to take two shots on each turn. Score one point for each pin that is knocked down. if score a strike then the player takes two more shots and add the all points together. Wins the player with the most points.
+    ",Wins the player with the most points .
+31,36590,93.0,tr,310165,3,6,22,Writing your online profile,"
+      Name: Haluk Age:57 Birthday 12 April Like doing: surfing the internet, playing soccer. Lives Istanbul, Turkey. Favorite Season: autumn. Animal: Dog Time: Morning Day Saturday. Number: 7
+    ","Lives Istanbul , Turkey ."
+32,133143,95.0,tr,335612,4,2,26,Describing routines,"
+      Lady Sharon, Feed the dog at 8 am every day. Walk the dog in the afternoon Feed the dog again at 5 pm every day. Sean Get up at 8am. every morning. Plays basketball every afternoon. Does the homework every evening. Watches movies on Saturdays at 7 pm. Goes to bed every night at 10pm. Bye!
+    ",Does the homework every evening .
+33,133143,95.0,tr,335612,4,2,26,Describing routines,"
+      Lady Sharon, Feed the dog at 8 am every day. Walk the dog in the afternoon Feed the dog again at 5 pm every day. Sean Get up at 8am. every morning. Plays basketball every afternoon. Does the homework every evening. Watches movies on Saturdays at 7 pm. Goes to bed every night at 10pm. Bye!
+    ",Goes to bed every night at 10pm .
+34,6722,97.0,tr,343891,15,2,114,Hosting a group of foreign buyers,"
+      Dear Mr. Brown, It will be pleasure for me to host you in Turkey. First of all, please don't hesitate to visit my country. You will be welcomed by Turkish people in a friendly manner. Of course, all the countries in the world have different cultures. Sometimes it may cause some problems. For that reason, I would like to give some clues to you about our culture, because you will encounter these culturel differences while you are in Turkey. Let me explain some gustures and body languages. In Turkey, 'thumbs up' means appriciating someone or something. 'Nodding your head' means approving. If you shake your head from one side to another side, it will mean that you don't aggree or you don't approve. In the bills, service isn't included, so you should give about 10% of the bill as a tip. You will buy a lot of things in Turkey, but please be careful while purchasing something because the sellers want much money from the foreigners. That's why, it will be better for you if you bargain. Yours sincerely, Yurttabir
+    ",Sometimes it may cause some problems .
+35,1621,89.0,tr,350820,6,8,48,Rescheduling an appointment,"
+      I'm fine, thank you. Unfortunately I'm busy on Tuesday. How about on Friday. I know a very populer restaurant. Their soups are delicious. Steaks and salads are very tasty too. You are going to like and you will be happy in there. Also it will be peaceful on Friday. Lets going to meet on Friday in this restaurant.
+    ",Lets going to meet on Friday in this restaurant .
+36,46280,98.0,tr,370297,4,3,27,Writing a party invitation,"
+      Date & Time : Saturday 17th March,7 pm. Place : Hayal Kahvesi cafe bar, Beyoglu. Food : A lot of special food. Drinks : Coke , wine , beer and Turkish RAKI. Guests : more than 100 . Music : Live music . Please let me know if you will invite the party .
+    ",Guests : more than 100 .
+37,130929,85.0,tr,374203,2,2,10,Writing a birthday invitation,"
+      Hi! Im 34 on Sunday. I know, now I'm old man. Im having a party at my house. Lets eat cake,drink beer, dance and sing. The party starts at 8:00 o'clock. Hope you can come! Hakan
+    ","Lets eat cake , drink beer , dance and sing ."
+38,80869,93.0,tr,430759,10,5,77,Finding a home for a wealthy client,"
+      Cottage: Not big enough for the Blight family requirements. Needs a renovation over new bathroom. Hamilton House: Built in 1892 Pros: Has a seafront Can be used as hotel because it has a hotelier license from EOT. So big enough for the Blight family. Cons: Needs some restorations because it is an old house. New apartments: Pros: 3x2 bedrooms available Good for investment and stay in. No restoration or renovation needed because everything is brand new. Cons: Not near the sea. Villa and business Pros. Godd for rental business Close to the surrounding beaches Close to the centre Big enough to stay in for the Blight family. No renovation needed. Has a landscaped garden for leisure times.
+    ",Needs a renovation over new bathroom .
+39,80869,93.0,tr,430759,10,5,77,Finding a home for a wealthy client,"
+      Cottage: Not big enough for the Blight family requirements. Needs a renovation over new bathroom. Hamilton House: Built in 1892 Pros: Has a seafront Can be used as hotel because it has a hotelier license from EOT. So big enough for the Blight family. Cons: Needs some restorations because it is an old house. New apartments: Pros: 3x2 bedrooms available Good for investment and stay in. No restoration or renovation needed because everything is brand new. Cons: Not near the sea. Villa and business Pros. Godd for rental business Close to the surrounding beaches Close to the centre Big enough to stay in for the Blight family. No renovation needed. Has a landscaped garden for leisure times.
+    ",Has a landscaped garden for leisure times .
+40,38517,87.0,tr,449796,7,3,51,Writing a job advertisement,"
+      Regional Marketing Manager - ManchesterJohn Tiles Ltd is looking to hire a Regional Marketing Manager. Our Company located in Manchester and works in manufacturing industry.Job duties include designing adverts, managing projects and working with sales to build client base. Candidates must stay in Manchester.Pay runs from 35,000-40,000 depending on experience.B.A. Marketing or similar is a necessity. Candidates must have min. 3 years experience in relevant sector.If you interest our job advert, please visit our website at www.johntiles.co.uk and fill an application form.       
+    ","Candidates must stay in Manchester.Pay runs from 35,000-40,000 depending on experience.B.A ."
+41,21285,98.0,tr,457440,4,2,26,Describing routines,"
+      Sean Plays basketball everyday in the afternoon. Plays computer games at 6pm in the evenining everyday. Watches movies on saturday at 5pm in the afternoon. Granny Does the laundry on tuesday afternoon. Does gardening in the morning. Sets the table at 6pm every evening. Dog Feet the dog at 8am everyday Walk the dog everyday in the afternoon. Feet the dog again at 5pm everyday.
+    ",Plays computer games at 6pm in the evenining everyday .
+42,21285,98.0,tr,457440,4,2,26,Describing routines,"
+      Sean Plays basketball everyday in the afternoon. Plays computer games at 6pm in the evenining everyday. Watches movies on saturday at 5pm in the afternoon. Granny Does the laundry on tuesday afternoon. Does gardening in the morning. Sets the table at 6pm every evening. Dog Feet the dog at 8am everyday Walk the dog everyday in the afternoon. Feet the dog again at 5pm everyday.
+    ",Does gardening in the morning .
+43,21285,98.0,tr,457440,4,2,26,Describing routines,"
+      Sean Plays basketball everyday in the afternoon. Plays computer games at 6pm in the evenining everyday. Watches movies on saturday at 5pm in the afternoon. Granny Does the laundry on tuesday afternoon. Does gardening in the morning. Sets the table at 6pm every evening. Dog Feet the dog at 8am everyday Walk the dog everyday in the afternoon. Feet the dog again at 5pm everyday.
+    ",Sets the table at 6pm every evening .
+44,137649,88.0,tr,479748,6,4,44,Writing a resume,"
+      Tennis Trainer Salary : $ 40,000 Working hours : 8 hours a day Job type : Temporary Tennis club sport to educate the children in the age of onset of this summer season there is a need for top level tennis trainer. Candidates willing to apply to the following address. Melik A.Blent Tennis Training Centre Club 42 040 Konya-Turkey
+    ",Candidates willing to apply to the following address .
+45,1096,99.0,tr,480217,2,2,10,Writing a birthday invitation,"
+      Hi I'm 47 years old on Monday and I'm having a party. Lets eat cake, dance and play computer games. The party is at my house. It's starts at 7 o'clock. Hope you can come.
+    ","Lets eat cake , dance and play computer games ."
+46,117351,91.0,tr,483331,7,4,52,Writing about a memorable experience,"
+      I have a one memory about holiday. I can't say holiday this event. :)We went to Artvin for holiday and First time I was going tableland. You know, I'm from Artvin and it is mine village. and we have a tableland belong to our village. Our tableland is so far from downtown so we went there by car. It took 13 hours with car so we decided to go in the night .Actually I felt very exiciting and happy, It could be different experience for me and 'I will learn new place and I'll see own old mansion' (how can I say this sentences in past tence) we went out of home at 10 p.m and in the morning we could be arrive there. When I opened my eyes, I felt my body was frozen and the car stopped. The way was closed and the sun was shining. We waited too hopeness cause there weren't any vehicle around us. So we took our laguagge and we walked about 1.5 hours. When we were walking, the weather was changing. Suddenly hail fail started and we had to hide under our clothes. In the end we arrived our mansion but wet, tired, unhappy and finished.This is a real story. If you wonder this place you can write at google 'Artvin yaylalari' and search in fotos :) you can see some snow on the road and mountain in the summer season. Kisses teacher. :)
+    ",Kisses teacher .
+47,111116,92.0,tr,510757,13,2,98,Renting out a room,"
+      Welcome to Your Apartment Would you like to feel fresh air every morning. If your answer is &quot;yes&quot;, you should rent this apartment. The location is Pacific Heights. It. is very close the city center. There are three bedrooms and two bathrooms in the apartment. All the bedrooms have good views. The bathrooms are bright and airy with Italian fixtures. The kitchen has just been remodeled. The kitchen offer all new appliances, ceramic tile backsplash, tile flooring, and brandly new cabinets. It could be very nice place after remodeled. In addition you can find kitchen island in it. The apartment has good views. You can sit and relax at the window side by looking at landscape. There is a rustic porch and original the wood staircase. The hoouse is trimmed with hand made wooden meterials. The apartment rent for $1,850 per month plus cleaning deposit. I think you do not find like this apartment at that price to rent. This price is very affordable. No pets.
+    ",is very close the city center .
+48,136715,80.0,tr,553647,4,2,26,Describing routines,"
+      plays computer games at 8 pm . whatch movies on sundays. set the table a 6pm. does laundry on friday afternoon. feed the dog 7 pm. every day. simetimes 8 pm. walk the dog in the afternoon. feed the dog again at 6 pm. everyday.
+    ",does laundry on friday afternoon .
+49,136715,80.0,tr,553647,4,2,26,Describing routines,"
+      plays computer games at 8 pm . whatch movies on sundays. set the table a 6pm. does laundry on friday afternoon. feed the dog 7 pm. every day. simetimes 8 pm. walk the dog in the afternoon. feed the dog again at 6 pm. everyday.
+    ",simetimes 8 pm .
+50,142625,90.0,tr,595227,4,1,25,Writing about what you do,"
+      Hi, I'm Esin. I'm a student. I go to the university. My departmant is electronic engineering. I't a really hard departmant. My lessons are really hard.  I go to courses because I have to improve my knowledge. I learn English, German. Also I learn to use some computer programmes like photosop, dreamweaver, flash. I like my job, because electronics and computers are very interesting.
+    ",I't a really hard departmant .
+51,4099,90.0,tr,624184,1,1,1,Introducing yourself by email,"
+      Dear Sir or Madam,  My name is Anil. I'm twenty-three years old. I'm from Istanbul, Turkey. I'm a student at Istanbul University.  I try to improve my backgroung of English in order to prepare myself for the IELTS.%% My aim is to further my education abroad. I hope, I can do that.  Yours sincerely.
+    ",Yours sincerely .
+52,174264,95.0,tr,644403,4,1,25,Writing about what you do,"
+      I work on a veterinary clinic. I'am a veterinary. I usually make surgical operations and treat animals. I rarely sit a desk and often talk on the phone. I help people and help their animals. I love my job because it's exciting and rewarding but I must work long time. When the work finish I feel tired.
+    ",I'am a veterinary .
+53,71498,90.0,tr,658496,5,5,37,Filling out an insurance claim form,"
+      I just saw &quot;Birds&quot; what an amazing movie! Birds was made in 1963 and was directed by the famous Alfred Hitchcock. Window is a dark story, like most Hitchocock movies. Tippi Hedren (T.H) is played by Melanie Daniels. T.H. is a beautufull, reach and pert a women. She meet Mitch Brenner (Rod Taylor) in a pet shop that to be handsome and interesting a lawyer . She boughrt a birds for Mitch Brenner's sister birth day but the birds are killer.
+    ","is a beautufull , reach and pert a women ."
+54,17640,80.0,tr,660577,4,1,25,Writing about what you do,"
+      I'm designer. I love may job. Because I make new designs and some people use them. I always talk to phone and always I sent emails. Sometimes it's very tired for me. Because I have very long meetings. Always I feel very rewarding. Always I design usefull furniture for people.
+    ",Sometimes it 's very tired for me .
+55,104049,95.0,tr,726703,4,1,25,Writing about what you do,"
+      I work in a hotel. I'am a waiter.  I always serve food and drink. I don't like my job because it's tiring. 
+    ",I'am a waiter .
+56,122485,90.0,tr,765277,1,3,3,Writing an online profile,"
+      Istanbul is big city. And very very crowded. Bosphorus is wonderful. There are a lot of museum.  There are a lot of historic placec. Istanbul a great city.
+    ",Istanbul a great city .
+57,13266,80.0,tr,790811,4,3,27,Writing a party invitation,"
+      Thieves broke into the Balgat Ziraat Bank on Sunday night and stole a lot of money and precious jewelry.A bank employee discovered the theft on Monday morning. Thieves dug the tunnel, nobody did not see them. Police looking for thieves.
+    ","Thieves dug the tunnel , nobody did not see them ."
+58,111170,90.0,tr,793197,5,5,37,Filling out an insurance claim form,"
+      I don't like too much movie, but Valley of the wolves was an magnificent movie. Valley of the wolves was directed by Osman Sinav. Valley of the wolves is a dark story. Is played by Polad Alemdar, It is very famous in Turkey. Wayne Valley of the Wolves, made ??by Pana Film, the earlier publication 15 January 2003, which came into episodes lasting 97 and 18 February 2007, which airs Valley of the Wolves, but after the publication of the second section is a continuation of RTK prohibited by the Valley of the Wolves series of terror. Subject to conflicts of global power has made a deep state in Turkey. Still continues to be published.
+    ","Is played by Polad Alemdar , It is very famous in Turkey ."
+59,50109,95.0,tr,827594,3,2,18,Describing a friend's weekend routine,"
+      My hometown is Fethiye. Is about 150 kilometers from Mugla.It's on the west coast of Turkey, on the Akdeniz. It's have a lot of beach. The city is very beautiful and a few mounths. A lot of people like to visit Fethiye in the summer.
+    ","Is about 150 kilometers from Mugla.It 's on the west coast of Turkey , on the Akdeniz ."
+60,88909,80.0,tr,867621,4,1,25,Writing about what you do,"
+      is hardworking your job.she has cooking fish and cake.but l am not hungry.my children and husband was hungry.they ate dinner.we come in the my house at 11:00 p.m.
+    ",is hardworking your job.she has cooking fish and cake.but l am not hungry.my children and husband was hungry.they ate dinner.we come in the my house at 11:00 p.m .
+61,46341,95.0,tr,910173,7,3,51,Writing a job advertisement,"
+      To whom it may concern; I'm writing in response to your online and a computer programmer. I have 2 certificate in computer program and software programe. I have four years' expirence in the business. I'am a hardworking, motivated person and I love a challenge. I have attached my resume. You reach me anytime at ###-###-#### I look forward to hearing from you.
+    ","I'am a hardworking , motivated person and I love a challenge ."
+62,152678,80.0,tr,910310,12,4,92,Writing a report on staff satisfaction,"
+      is known more of people. Because people speaks everywherein the world so this language is world language. The English language is employed for business purposes around the world. I want to speak English because I will use English to earn a better living. The English language is most important my country. Because its location is center of the world. A lot of countries utilize my country's lacation for business purposes. So our country's workers must know english. Furthermore, our country has beautiful sea and wonderful climate. There are different scenic beauties in here. So Tourists choose my country for holiday. We utilize the English language for tourism on a daily basis.Turkish is our native language. But,there are variety in our language from different regions's people.
+    ",is known more of people .
+63,86699,90.0,tr,941270,2,6,14,Telling someone what you're doing,"
+      i live my house with my family. my house is very comfortable. it is lovely, but the living room is small. it is mine. the kitchen is big. it has a dishwasher, a fridge and a microwave. the bathroom is small and clean. the neighborhood is nice and safe. i love my house and my family. it is near my work. comes see me soon.
+    ",comes see me soon .
+64,28004,100.0,tr,952051,1,4,4,Describing your family in an email,"
+      Burak is one of my employees. He has brown hair and eyes. He is a very kind person. He is 27 years old. He is from Trabzon. Has a sister whose name is Asya. She is very beautiful.
+    ",Has a sister whose name is Asya .
+65,29429,60.0,tr,1024058,11,2,82,Helping a coworker deal with a phobia,"
+      I was not so good about technology. When everyone began to use smartphones i said what is it. I thougth that the smartphones were useless. I bought my first smartphone one year ago and then I thougt that it was fun. Actually I m addicted to my smartphone now. I take great pictures. I love the games. I listen to music in the mornings. I use social media. Sometimes social media takes too much time but we learn the events and news and topics from social media. I think everybody should use it. I can send emails. I dont have to use my laptop since i bought my smartphone. Besides i like funny applications. I can surf on the internet even i am at job. Thats the best par of it. We couldnt live without technology. We used to it.When we used to the technology it will change.
+    ",Thats the best par of it .
+66,97903,95.0,tr,1052732,4,3,27,Writing a party invitation,"
+      There was a theft in my city two years ago. Thieves into the bank and they stole 99.879$ from bank. A security employee discovered the thieves and he called to police. The police arrested their.
+    ",Thieves into the bank and they stole 99.879 $ from bank .
+67,10731,90.0,tr,1057510,5,4,36,Giving instructions to a house-sitter,"
+      A plus, close at the my university and you know I'm a student and I am not rich. A plus has a reasonable prices. Five manner 6 Turkish liras and it's very cheap actually. Foods are yummy! Deserts not bad but... Pinto beans not good.
+    ",Deserts not bad but ... Pinto beans not good .
+68,51557,95.0,tr,1058521,7,1,49,Giving instructions to play a game,"
+      Actually, im not sure what im thinking about the future. But im trying to be optimistic about it. Humans continously producting and consuming. But we have limited resources in the world. So we have to develop more renewable technologies. If we can do this we can reach the sucess in the future
+    ",Humans continously producting and consuming .
+69,91015,95.0,tr,1069739,5,5,37,Filling out an insurance claim form,"
+      I just saw 'Rear Window.' What an amazing movie! 'Rear Window' was made in 1954 and was directed by the famous Alfred Hitchcock. 'Rear Window' is a dark story, like most Hitchcock movies. L.B is played by James Stewart. L.B is a photographer, but his leg is broken. He has to stay home, so he watches his neighbors through their windows. I felt sorry for his poor neighbors! Soon, L.B. begins usig his camera to fight evi. I saw the remake in 1998, but it's not the same. Daryl Hannah's acting was dreadful!
+    ",begins usig his camera to fight evi .
+70,108526,90.0,tr,1070471,1,3,3,Writing an online profile,"
+      Ankara city. is big and crowded. Gksu park is very nice park.the city has a lot of people. it is metropolitan of turkey.
+    ",is big and crowded .
+71,14298,80.0,tr,1110029,4,3,27,Writing a party invitation,"
+      There was a theft in my site last night. Thieves broke into the house and they stole the money. The police comes the next day. And they found the thieves the day after.they found the money also
+    ",Thieves broke into the house and they stole the money .
+72,143887,90.0,tr,1114724,4,1,25,Writing about what you do,"
+      International World Circus That's event on December 1, 2013. This excellent show on the Atatrk Sport Hall. There are 4th different shows. Shows starts 2,4,6 and 8 p.m.. Everybody have to buy tickets. Tickets for child(0-8 age) 10 TL, for parents 15 TL. Have a nice fun.
+    ","Shows starts 2,4,6 and 8 p.m .. Everybody have to buy tickets ."
+73,128638,80.0,tr,1115073,5,1,33,Planning to attend a music festival,"
+      I live in Saudi Arabia usually in the summer vacation we go to Abha. Abha is a greate city. Contains a series of fantastic mountains and natural beauty an also there is a nice animals. but the road between Jeddah and Abha is very dangerous actually we like Abha and we go their every year .
+    ",Contains a series of fantastic mountains and natural beauty an also there is a nice animals .
+74,163984,90.0,tr,1190449,6,1,41,Writing a movie plot,"
+      Is anyone taking notes. Ok lets start. Here is the summery of our sales meeting What can we do to increase our sales . Mine said that We can arrange different tour program out of standart. Emre said that we need to correct our account department and we can supply happnies of custemer. Action item Mine sasd that different program can supply more sales
+    ",Is anyone taking notes .

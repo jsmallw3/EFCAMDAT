@@ -1,0 +1,328 @@
+,learner_id,grades,nationality,writing_id,levels,unit,topic_id,topic_text,passage,query_sentence
+0,104712,95.0,jp,29037,8,1,57,Writing a natural remedies pamphlet,"
+      Recently, many people feel chronically ill. If you get tired easily, you may have a weakened immune system. Lets try taking crushed garlic with lemon and acerola. It is very good for suppressed immune system. If you have stiff shoulders, put a hot mixture of vinegar, olive oil, and eucalyptus on your aches and pains. It will treat your pains! If you are exhausted and feel nausea, ginger and raspberry leaf will help you. Please chew them or put it in a tea. Home remedies will good for you.
+    ",Lets try taking crushed garlic with lemon and acerola .
+1,49152,83.0,jp,29946,4,2,26,Describing routines,"
+      Sean Plays basketball every afternoon. Plays comupter games at 6pm. Watched movies on Saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardening in the morning. Sets the table at 6pm
+    ",Does gardening in the morning .
+2,124910,86.0,jp,35216,5,2,34,Writing a holiday postcard,"
+      Hi! Mam and Dad,Im in Santa Monica to spend short vacation. Todays whether is sunny and hot, but it is going to be rainy tomorrow. Today, Im going to go to beach, to swim and to get a suntan. Tomorrow, I will go to a museum and eat local foods at famous restaurant in Santa Monica. I will buy many presents for them. Please expect me.See you.Kanayo
+    ","Todays whether is sunny and hot , but it is going to be rainy tomorrow ."
+3,7663,89.0,jp,51561,10,6,78,Describing a terrifying experience,"
+      The night mare of elm street.Meg was going out to work as usual. It's amazing how gorgeous the morning was until it all happened.She met a young couple get out of a car. They suddenly breaking the window of the local newsagents with a hummer, and throwing paint on the store front.The young lady of the couple came at Meg waving a gun. It was astonishing. Fortunately, a pesser-by, a nice handsome looking guy caught the young lady by the hair. Turns out it was a wig.The young woman wasn't a young woman, but a teenage boy.It was most terrifying day of Meg's life.
+    ","Turns out it was a wig.The young woman was n't a young woman , but a teenage boy.It was most terrifying day of Meg 's life ."
+4,66588,89.0,jp,100219,7,4,52,Writing about a memorable experience,"
+      Hi Tim I had funny experience. I went to China for business. I had stayed two weeks. After my business, I got ferry. Normally, ferry had a few passenger. so seat was free. but that time ferry was full. but many people didn't sat own seat. Of course I was sitting other person's seat. then, a man showed me his ticket and said&quot; It's my seat&quot; . I had to move to mine, but my seat was taken . So I told them ' It's mine'. he moved to his seat, but his seat was taken too. looks like billiards game!
+    ",looks like billiards game !
+5,30400,95.0,jp,120549,4,2,26,Describing routines,"
+      Dear housekeeper Sean he plays basketball every afternoon and plays computer games at 6pm. He wathes movies on Saturdays at 5pm. Granny does Laundry on Tuesday afternoon. does gardening in the morning. sets the table at 6pm. You feed the dog at 8am every day. walk the dog in the afternoon. feed the dog again at 5pm every day. Thank you.
+    ",does gardening in the morning .
+6,30400,95.0,jp,120549,4,2,26,Describing routines,"
+      Dear housekeeper Sean he plays basketball every afternoon and plays computer games at 6pm. He wathes movies on Saturdays at 5pm. Granny does Laundry on Tuesday afternoon. does gardening in the morning. sets the table at 6pm. You feed the dog at 8am every day. walk the dog in the afternoon. feed the dog again at 5pm every day. Thank you.
+    ",sets the table at 6pm .
+7,157347,90.0,jp,121934,4,2,26,Describing routines,"
+      michikazu surfs the internet everyday. comes back home at 7pm. makes and eats dinner at 8pm. goes jogging on Sunday evening. does the laundry on Sunday morning. goes for work at 7am on Monday throw Friday. eats lunch at between 1pm and 3pm. takes shower soon after coming back home.
+    ",comes back home at 7pm .
+8,157347,90.0,jp,121934,4,2,26,Describing routines,"
+      michikazu surfs the internet everyday. comes back home at 7pm. makes and eats dinner at 8pm. goes jogging on Sunday evening. does the laundry on Sunday morning. goes for work at 7am on Monday throw Friday. eats lunch at between 1pm and 3pm. takes shower soon after coming back home.
+    ",makes and eats dinner at 8pm .
+9,157347,90.0,jp,121934,4,2,26,Describing routines,"
+      michikazu surfs the internet everyday. comes back home at 7pm. makes and eats dinner at 8pm. goes jogging on Sunday evening. does the laundry on Sunday morning. goes for work at 7am on Monday throw Friday. eats lunch at between 1pm and 3pm. takes shower soon after coming back home.
+    ",goes jogging on Sunday evening .
+10,157347,90.0,jp,121934,4,2,26,Describing routines,"
+      michikazu surfs the internet everyday. comes back home at 7pm. makes and eats dinner at 8pm. goes jogging on Sunday evening. does the laundry on Sunday morning. goes for work at 7am on Monday throw Friday. eats lunch at between 1pm and 3pm. takes shower soon after coming back home.
+    ",does the laundry on Sunday morning .
+11,157347,90.0,jp,121934,4,2,26,Describing routines,"
+      michikazu surfs the internet everyday. comes back home at 7pm. makes and eats dinner at 8pm. goes jogging on Sunday evening. does the laundry on Sunday morning. goes for work at 7am on Monday throw Friday. eats lunch at between 1pm and 3pm. takes shower soon after coming back home.
+    ",goes for work at 7am on Monday throw Friday .
+12,157347,90.0,jp,121934,4,2,26,Describing routines,"
+      michikazu surfs the internet everyday. comes back home at 7pm. makes and eats dinner at 8pm. goes jogging on Sunday evening. does the laundry on Sunday morning. goes for work at 7am on Monday throw Friday. eats lunch at between 1pm and 3pm. takes shower soon after coming back home.
+    ",takes shower soon after coming back home .
+13,59023,91.0,jp,129423,4,2,26,Describing routines,"
+      Kei wakes up at 5:50 am. eats breakfast at 6:00 am. leaves for work at 6:15 am. comes home at 8:30 pm. eats dinner at 9 pm. takes a bath at 10 pm. You - feed the dog at 7 am everyday. - walk the dog at 9 am. - feed the dog again at 5 pm every day.
+    ",comes home at 8:30 pm .
+14,59023,91.0,jp,129423,4,2,26,Describing routines,"
+      Kei wakes up at 5:50 am. eats breakfast at 6:00 am. leaves for work at 6:15 am. comes home at 8:30 pm. eats dinner at 9 pm. takes a bath at 10 pm. You - feed the dog at 7 am everyday. - walk the dog at 9 am. - feed the dog again at 5 pm every day.
+    ",takes a bath at 10 pm .
+15,119817,90.0,jp,149982,4,2,26,Describing routines,"
+      Seon : He plays basketball every afternoon. He plays computer games at 6pm. He watches movies on Satrdays at 5pm. Granny : Does laundry on Tuesday afternoon. Does gardening in the morning. Sets the table at 6pm. Me : I feed the dog at 8am every morning. I walk the dog in the afternoon. I feed the dog again at 5pm at everyday.
+    ",Does gardening in the morning .
+16,119817,90.0,jp,149982,4,2,26,Describing routines,"
+      Seon : He plays basketball every afternoon. He plays computer games at 6pm. He watches movies on Satrdays at 5pm. Granny : Does laundry on Tuesday afternoon. Does gardening in the morning. Sets the table at 6pm. Me : I feed the dog at 8am every morning. I walk the dog in the afternoon. I feed the dog again at 5pm at everyday.
+    ",Sets the table at 6pm .
+17,134122,90.0,jp,157298,2,3,11,Writing a weather guide for your city,"
+      In Tokyo, beautful seasons are spring and autumn. In spring, it's warm and sunny. You can usually look cherry blossoms anywhere in Tokyo. In autumn, It's cool and sunny. Leaves chang color, brown, yellow, red. There are much delicious foods .
+    ","Leaves chang color , brown , yellow , red ."
+18,74828,98.0,jp,169886,5,1,33,Planning to attend a music festival,"
+      Hi, mom and dadI'm going to go to a Korean pop music festival with my friends next month. Nov 6th. I'm going to listen and dance. I'm taking a back pack, towels, bottles of water, hat and coat. I think that it'll be fair. I'm wearing band's T-shirt. Tickets cost me 6000 yen. I can't wait.
+    ",Tickets cost me 6000 yen .
+19,37686,96.0,jp,191697,4,2,26,Describing routines,"
+      Dear House Keeper I wrote routine of Sean,Granny . Sean Plays basketball every afternoon. Plays computer games at 5pm. Watches movies on Saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardening in the morning. Sets the table at 6pm. And I want you to do these things. Feed the dog at 8am every day. Walk the dog in the afternoon. Feed the dog again at 5pm every day.
+    ",Plays computer games at 5pm .
+20,37686,96.0,jp,191697,4,2,26,Describing routines,"
+      Dear House Keeper I wrote routine of Sean,Granny . Sean Plays basketball every afternoon. Plays computer games at 5pm. Watches movies on Saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardening in the morning. Sets the table at 6pm. And I want you to do these things. Feed the dog at 8am every day. Walk the dog in the afternoon. Feed the dog again at 5pm every day.
+    ",Does gardening in the morning .
+21,37686,96.0,jp,191697,4,2,26,Describing routines,"
+      Dear House Keeper I wrote routine of Sean,Granny . Sean Plays basketball every afternoon. Plays computer games at 5pm. Watches movies on Saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardening in the morning. Sets the table at 6pm. And I want you to do these things. Feed the dog at 8am every day. Walk the dog in the afternoon. Feed the dog again at 5pm every day.
+    ",Sets the table at 6pm .
+22,34300,94.0,jp,194437,4,2,26,Describing routines,"
+      make breakfast at 6am every day. do the laundry on Saturday. mops the floor every afternoon. make dinner at 7pm every day. do housework on Saturday. go shopping on Sunday. walk the dog at 7am every day. feed the dog at 7:30am every day. feed the dog again at 7pm every day.
+    ",mops the floor every afternoon .
+23,34300,94.0,jp,194447,5,4,36,Giving instructions to a house-sitter,"
+      Water the plants every day at AM. Take the dogs for a walk twice a day. Feeds the dogs every day at night. Check water the birds twice a week. Feeds the birds every day at AM. Feeds the fish food three times a week afternoon. Take out the trash once a week. Clean the house twice a week. Sweep the floor twice a week.
+    ",Feeds the dogs every day at night .
+24,34300,94.0,jp,194447,5,4,36,Giving instructions to a house-sitter,"
+      Water the plants every day at AM. Take the dogs for a walk twice a day. Feeds the dogs every day at night. Check water the birds twice a week. Feeds the birds every day at AM. Feeds the fish food three times a week afternoon. Take out the trash once a week. Clean the house twice a week. Sweep the floor twice a week.
+    ",Feeds the birds every day at AM .
+25,22526,100.0,jp,206757,2,4,12,Buying clothes from a catalog,"
+      I choose &quot;Creamium&quot; because Creamium: Having had good results in Europe so far, and going to try Asian market over the next 5 years. Gonuts!: Getting good results in the US market at the moment, and before going abroad they hope to gain a bigger market share on the east coast of the Us.
+    ",Gonuts !
+26,59167,93.0,jp,212665,4,2,26,Describing routines,"
+      Sean plays basketball every afternoon. plays computer games at 6 p.m. watches movies on Saturdays at 5 p.m. Granny does laundry on Tuesday afternoon. does gardening in the morning. sets the table at 6 p.m. You feed the dog at 8 a.m. every day. walk the dog in the afternoon. feed the dog again at 5 p.m. every day.
+    ",plays computer games at 6 p.m. watches movies on Saturdays at 5 p.m. Granny does laundry on Tuesday afternoon .
+27,59167,93.0,jp,212665,4,2,26,Describing routines,"
+      Sean plays basketball every afternoon. plays computer games at 6 p.m. watches movies on Saturdays at 5 p.m. Granny does laundry on Tuesday afternoon. does gardening in the morning. sets the table at 6 p.m. You feed the dog at 8 a.m. every day. walk the dog in the afternoon. feed the dog again at 5 p.m. every day.
+    ",does gardening in the morning .
+28,59167,93.0,jp,212665,4,2,26,Describing routines,"
+      Sean plays basketball every afternoon. plays computer games at 6 p.m. watches movies on Saturdays at 5 p.m. Granny does laundry on Tuesday afternoon. does gardening in the morning. sets the table at 6 p.m. You feed the dog at 8 a.m. every day. walk the dog in the afternoon. feed the dog again at 5 p.m. every day.
+    ",sets the table at 6 p.m. You feed the dog at 8 a.m. every day .
+29,39057,90.0,jp,215818,2,3,11,Writing a weather guide for your city,"
+      Japan has beautiful seasons. In spring the weather is sunny and warm. You can see beautiful cherry blossoms.In summer  is hot .In autumn  is sunny and cool. leaves turn red or yellow.In winter  is cold and snowy.
+    ",leaves turn red or yellow.In winter is cold and snowy .
+30,20978,75.0,jp,227347,4,2,26,Describing routines,"
+      May Washes the dishes in the evening at the weekend. Sets the table everyday. Watches TV everynight. Mina Washes the dishes in the morning at the weekend. Sets the table everyday. Watches TV everynight. Me Do the housework everyday. Walk the dog in the morning. Watch TV everyevening.
+    ",Sets the table everyday .
+31,20978,75.0,jp,227347,4,2,26,Describing routines,"
+      May Washes the dishes in the evening at the weekend. Sets the table everyday. Watches TV everynight. Mina Washes the dishes in the morning at the weekend. Sets the table everyday. Watches TV everynight. Me Do the housework everyday. Walk the dog in the morning. Watch TV everyevening.
+    ",Sets the table everyday .
+32,30847,88.0,jp,232694,3,3,19,Renovating your home,"
+      Hi, my room is finished. It's beautiful! There is a long window with curtain. A brown sofa is under the window.A big picture is on cream wall. A T.V. is under the picture, near to cute dolls.
+    ","is under the picture , near to cute dolls ."
+33,59270,95.0,jp,242331,4,2,26,Describing routines,"
+      Dear housekeeper, Please help me doing these chores while I'm away: - Feed the dog at 8am and 5pm every day. - Walk the dog in the afternoon. And these are Sean and Granny's daily routines. Sean: plays basketball every afternoon. plays computer games at 6pm. watches movies on Saturdays at 5pm. Granny: does laundry on Tuesday afternoon. does gardening in the morning. sets the table at 6pm. Regards, Maryam
+    ",plays computer games at 6pm .
+34,59270,95.0,jp,242331,4,2,26,Describing routines,"
+      Dear housekeeper, Please help me doing these chores while I'm away: - Feed the dog at 8am and 5pm every day. - Walk the dog in the afternoon. And these are Sean and Granny's daily routines. Sean: plays basketball every afternoon. plays computer games at 6pm. watches movies on Saturdays at 5pm. Granny: does laundry on Tuesday afternoon. does gardening in the morning. sets the table at 6pm. Regards, Maryam
+    ",does gardening in the morning .
+35,59270,95.0,jp,242331,4,2,26,Describing routines,"
+      Dear housekeeper, Please help me doing these chores while I'm away: - Feed the dog at 8am and 5pm every day. - Walk the dog in the afternoon. And these are Sean and Granny's daily routines. Sean: plays basketball every afternoon. plays computer games at 6pm. watches movies on Saturdays at 5pm. Granny: does laundry on Tuesday afternoon. does gardening in the morning. sets the table at 6pm. Regards, Maryam
+    ",sets the table at 6pm .
+36,173086,80.0,jp,256961,7,3,51,Writing a job advertisement,"
+      Jonh Tiles Lts. is looking for a new Regioal Marketing Manager. We are as a Manufacturing company and hope who can work with sales to buid up client base Office location is Manchester and job duises are Design adverts,manage progectswork with sale to build client base. Minimum requirements for applicant is BA Markeing or simila and three years relevant experience. Expected salray is from $35,000 to $40,000. We are looking forward to seeing you.
+    ",is looking for a new Regioal Marketing Manager .
+37,41470,89.0,jp,261373,7,3,51,Writing a job advertisement,"
+      Jobs for the company John Tiles Ltd. a manufacturing industry, located in Manchester. Is vacant the position of regional marketing manager and where the ads are made for design, project management, and must work with sales to build customer base. And the minimum requirements are: BA Marketing or similar 3 years of relevant experience. The salary is $ 30,000 to $ 40,000. Call the number :####-#### for more information.
+    ","Is vacant the position of regional marketing manager and where the ads are made for design , project management , and must work with sales to build customer base ."
+38,30235,100.0,jp,293703,10,6,78,Describing a terrifying experience,"
+      First of all Meg saw a young couple get out of a car. She was surprised when they suddenly began vandalizing the local newsagents. They were breaking the window with a hammer, and throwing paint on the store front. Suddenly the young woman came at Meg waving a gun! She had very long hair over her eyes and face. She pushed the gun into Meg's stomach, and started talking very fast about consumerism. Meg was terrified she was going to shoot Meg! Last, the young woman grabbed the laptop off Meg and ran off down the street. A passer-by, a nice handsome looking guy chased her and caught her by the hair. Turns out it was a wig. And the young woman wasn't a young woman at all, but a teenage boy. Meg is still scared to leave the house.
+    ",Turns out it was a wig .
+39,25719,82.0,jp,300482,4,2,26,Describing routines,"
+      Dear! sean plays basketball with my son everyday afternoon. plays computer games with my children at 3pm watches movies with my children on monday night please cleans the room. sets the table at 6pm on friday. please, walks the dog in the afternoon. does laundry on tuesday afternoon. does gardening in the morning every day. eats out with my son at 5pm on sunday.
+    ",plays computer games with my children at 3pm watches movies with my children on monday night please cleans the room .
+40,25719,82.0,jp,300482,4,2,26,Describing routines,"
+      Dear! sean plays basketball with my son everyday afternoon. plays computer games with my children at 3pm watches movies with my children on monday night please cleans the room. sets the table at 6pm on friday. please, walks the dog in the afternoon. does laundry on tuesday afternoon. does gardening in the morning every day. eats out with my son at 5pm on sunday.
+    ",sets the table at 6pm on friday .
+41,25719,82.0,jp,300482,4,2,26,Describing routines,"
+      Dear! sean plays basketball with my son everyday afternoon. plays computer games with my children at 3pm watches movies with my children on monday night please cleans the room. sets the table at 6pm on friday. please, walks the dog in the afternoon. does laundry on tuesday afternoon. does gardening in the morning every day. eats out with my son at 5pm on sunday.
+    ",does laundry on tuesday afternoon .
+42,25719,82.0,jp,300482,4,2,26,Describing routines,"
+      Dear! sean plays basketball with my son everyday afternoon. plays computer games with my children at 3pm watches movies with my children on monday night please cleans the room. sets the table at 6pm on friday. please, walks the dog in the afternoon. does laundry on tuesday afternoon. does gardening in the morning every day. eats out with my son at 5pm on sunday.
+    ",does gardening in the morning every day .
+43,25719,82.0,jp,300482,4,2,26,Describing routines,"
+      Dear! sean plays basketball with my son everyday afternoon. plays computer games with my children at 3pm watches movies with my children on monday night please cleans the room. sets the table at 6pm on friday. please, walks the dog in the afternoon. does laundry on tuesday afternoon. does gardening in the morning every day. eats out with my son at 5pm on sunday.
+    ",eats out with my son at 5pm on sunday .
+44,75135,90.0,jp,308905,3,3,19,Renovating your home,"
+      Hi, my room is finished. It's interested in because theres a big window with new brown curtains and a queen size of modern bed, small, white closet in my bedroom. Theres a brown coffee table next to the bed and an air conditioner on the cream wall. I cant find a beautiful rug yet, but it is installed the dark brown ceramic tile on the flower.
+    ",Theres a brown coffee table next to the bed and an air conditioner on the cream wall .
+45,126504,97.0,jp,335098,2,3,11,Writing a weather guide for your city,"
+      Tokyo has many beautiful skyscraper.In summer the weather is sunny and hot.In autumn it's cloudy and cool.In winter it's cold and sometimes it's snowy.In spring it's sunny and cloudy. Sometimes It's cool and warm.
+    ",Sometimes It 's cool and warm .
+46,2594,100.0,jp,364338,4,2,26,Describing routines,"
+      Hello, nice to see you. Sean Does play basketball every afternoon. And does play computer games at 6pm, does watch movies on Saturdays at 5pm. Granny Does laundry on Tuessay afternoon. Does gardening in the morning and does set the table at 6pm. You Feed the dog at 8am and at 5pm every day. Walk the dog in the afternoon. Thank you.
+    ",Does gardening in the morning and does set the table at 6pm .
+47,64993,89.0,jp,365368,1,8,8,Making a dinner party menu,"
+      Yoriko likes beef. loves meet and chicken. dosen't like vegetables, hates coke. Emi likes cake and chicken. loves fish. doesn't like nuts, hates peas.
+    ",loves meet and chicken .
+48,64993,89.0,jp,365368,1,8,8,Making a dinner party menu,"
+      Yoriko likes beef. loves meet and chicken. dosen't like vegetables, hates coke. Emi likes cake and chicken. loves fish. doesn't like nuts, hates peas.
+    ",loves fish .
+49,64993,89.0,jp,365368,1,8,8,Making a dinner party menu,"
+      Yoriko likes beef. loves meet and chicken. dosen't like vegetables, hates coke. Emi likes cake and chicken. loves fish. doesn't like nuts, hates peas.
+    ","does n't like nuts , hates peas ."
+50,41107,89.0,jp,375936,7,1,49,Giving instructions to play a game,"
+      The fiels is divide in two. The kids are divided in two teams. In each team the kids are divided in defenders and riders. Each team has a flag that is left in opposite sides in the field. The team has to take the enemy team's flag. When the riders try to take the enemy's flag, the defenders has to touch then. If a rider is touched,  is out of the game. Wins the team that capture the enemy team's flag first.
+    ",Wins the team that capture the enemy team 's flag first .
+51,41107,92.0,jp,375949,8,5,61,Selling items in an online auction,"
+      I'm selling a practice wooden office desk. 80 centimeters of height, 1 meter of width and 50 centimeters of depth. The wood like color makes it easy to match with any decoration. Vintage piece carved in the end of the XIX century. Gives the room a warmth and antique touch. Can be set as decorative central piece or for studying and working. Using this desk you are going to feel like writing down laws, novels and poems as if you were from another era.
+    ",Gives the room a warmth and antique touch .
+52,107490,100.0,jp,408395,4,2,26,Describing routines,"
+      Hi! I tell you our daily work. Sean Plays basketball every afternoon. Plays computer games at 6pm. Watches movies on Saturdays at 5pm. Grammy Does laundry on tuesday afternoon. Does gardening inthe morning. Sets the table at 6pm. I Feed the dog at 8am every day. Walk the dog in the afternoon. Feed the dog again at 5pm every day. Bye! Tatsuya.
+    ",Plays computer games at 6pm .
+53,107490,100.0,jp,408395,4,2,26,Describing routines,"
+      Hi! I tell you our daily work. Sean Plays basketball every afternoon. Plays computer games at 6pm. Watches movies on Saturdays at 5pm. Grammy Does laundry on tuesday afternoon. Does gardening inthe morning. Sets the table at 6pm. I Feed the dog at 8am every day. Walk the dog in the afternoon. Feed the dog again at 5pm every day. Bye! Tatsuya.
+    ",Does gardening inthe morning .
+54,107490,100.0,jp,408395,4,2,26,Describing routines,"
+      Hi! I tell you our daily work. Sean Plays basketball every afternoon. Plays computer games at 6pm. Watches movies on Saturdays at 5pm. Grammy Does laundry on tuesday afternoon. Does gardening inthe morning. Sets the table at 6pm. I Feed the dog at 8am every day. Walk the dog in the afternoon. Feed the dog again at 5pm every day. Bye! Tatsuya.
+    ",Sets the table at 6pm .
+55,171704,92.0,jp,418630,10,3,75,Requesting a bank loan,"
+      Dear Sir or Madam, I am writing about possibility of requesting a loan to you. Because I would like to buy a some house which I found recently. I believe that it will be cheaper to buy than to rent in the long run. And I think I will never seen that parfet house for me in the future. My income is $2000 per month plus I get bonuses twice a year which is $10000 per year. I have been working at this company for 5 years and I will be able to promote next year. I am currently paying $600 rent per month. However, I do not think I live this apartment forever. Please contact me if you need more information. My email address is xxx@yahoo.co.jp and mobile No. is ### #### ####. I look forward to hearing from you. Yours sincerely, Nagisa Toguchi
+    ",is # # # # # # # # # # # .
+56,42105,95.0,jp,440125,2,2,10,Writing a birthday invitation,"
+      Hi! Im 28 on Saturday. Im having a party at my house. Lets eat cake, dance and sing. The party starts at 6:30. Hope you can come! Keisuke
+    ","Lets eat cake , dance and sing ."
+57,51388,100.0,jp,447925,4,2,26,Describing routines,"
+      TakanobuGets up at 6am.Has breakfast at 6:30.Gets home at 6pm.Has dinner at 6:30.Goes to bed at 11:30.AsakoGets up at 7:45.Leaves home at 8am.Comes back home at 4pm.I don't know when she goes to bed.Dog NaSh Takes a walk twice a day.Feeds Twice a day.Miki Gets up at 6:05.Does the laundly and mops the floor every day.Goes to bed at 11:30.
+    ",TakanobuGets up at 6am.Has breakfast at 6:30.Gets home at 6pm.Has dinner at 6:30.Goes to bed at 11:30.AsakoGets up at 7:45.Leaves home at 8am.Comes back home at 4pm.I do n't know when she goes to bed.Dog NaSh Takes a walk twice a day.Feeds Twice a day.Miki Gets up at 6:05.Does the laundly and mops the floor every day.Goes to bed at 11:30 .
+58,143848,90.0,jp,462181,4,1,25,Writing about what you do,"
+      I work at a rehabilitation hosptal in Japan. I'm manager of therapist section. I like my job because our clients are getting better. Sometimes it's difficult. I always tired because I exercise hard with my cliant all day. I take a short breaks. It's very interesting, but unrewarding in Japan.
+    ",Sometimes it 's difficult .
+59,56592,96.0,jp,476120,4,2,26,Describing routines,"
+      I am going to go to one week trip. Please take care of my families. Follows are their routines. Sean Plays basketball every afternoon. Plays computer games at 6pm. Watches movies on Saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardening in the morning. Sets the table at 6pm. Dog Feed the dog at 8am and 5pm every day. Walk the dog in the afternoon.
+    ",Plays computer games at 6pm .
+60,56592,96.0,jp,476120,4,2,26,Describing routines,"
+      I am going to go to one week trip. Please take care of my families. Follows are their routines. Sean Plays basketball every afternoon. Plays computer games at 6pm. Watches movies on Saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardening in the morning. Sets the table at 6pm. Dog Feed the dog at 8am and 5pm every day. Walk the dog in the afternoon.
+    ",Does gardening in the morning .
+61,56592,96.0,jp,476120,4,2,26,Describing routines,"
+      I am going to go to one week trip. Please take care of my families. Follows are their routines. Sean Plays basketball every afternoon. Plays computer games at 6pm. Watches movies on Saturday at 5pm. Granny Does laundry on Tuesday afternoon. Does gardening in the morning. Sets the table at 6pm. Dog Feed the dog at 8am and 5pm every day. Walk the dog in the afternoon.
+    ",Sets the table at 6pm .
+62,90337,35.0,jp,476542,2,4,12,Buying clothes from a catalog,"
+      Hi my friend. You need something. Your blue pants and white shirt. Your son's sneakers, sunglasses and 2 socks. Your mother' red scarf and boots. Is it OK !
+    ",Is it OK !
+63,90337,89.0,jp,476556,4,2,26,Describing routines,"
+      Hi! My pretty dog'name is Margaret. get up at 6 AM in the morning . goes to walk at 6:30 every day. eat the can of food at 7:30. likes playing a ball. takes a nap about one hour in the afternoon. usually takes a shower. always eat dinner at 6. you give her favorite toys in the bed.
+    ",goes to walk at 6:30 every day .
+64,90337,89.0,jp,476556,4,2,26,Describing routines,"
+      Hi! My pretty dog'name is Margaret. get up at 6 AM in the morning . goes to walk at 6:30 every day. eat the can of food at 7:30. likes playing a ball. takes a nap about one hour in the afternoon. usually takes a shower. always eat dinner at 6. you give her favorite toys in the bed.
+    ",takes a nap about one hour in the afternoon .
+65,85528,92.0,jp,483013,9,6,70,Asking for leave,"
+      Dear Angela Sun, I would like to ask you if I could get a day off on the next Friday. It is concerned about my son. He has an allergy , if it breaks out he can hardly breath. He has been on the waiting list for ages at a famous allergist , and finally he's just got an appointment. I would like to bring him to the hospital and to know the result after the medical examination. I am very grateful if you give me a permission for a day off. My phone No. is 110-1234. My email address is xxx@englishtown.de Yours sincerely, Terry September
+    ",is 110-1234 .
+66,93897,90.0,jp,484794,4,2,26,Describing routines,"
+      Plays tennis every morning. Goes to the school 5days a week. Eats the breakfast every morning. Eats the dinner every night. I have to walk every morning with a dog. I cook food for a dog. I have ironing sunday. I have gardening every morning.I wash closes monday. I clean the house friday.
+    ",Goes to the school 5days a week .
+67,135244,94.0,jp,498721,5,3,35,Labeling photos from a safari,"
+      Monkeys live in the kinds of mountain in Japanese zoo. We call the mountain &quot;saruyama&quot;. &quot;Saru&quot; means monkeys and &quot;yama&quot; means mountain. Sometimes Japanese broadcasts report the news  which wild monkeys take a hot spring at the heart of the mountains. Monkeys is smaller than bears and Monkeys is also bigger than cats and mice. Monkeys is noisier than parrots but monkeys is as clever as human beings. 
+    ",Sometimes Japanese broadcasts report the news which wild monkeys take a hot spring at the heart of the mountains .
+68,148246,89.0,jp,509893,7,1,49,Giving instructions to play a game,"
+      Bowling alley is an area of 8x3 meters. Use ten plaxtic bottles being made heavier. Line up the bottles in rows of 4, 3, 2, then,1. Get a frisbee and two shots on each turn o each player. Plays a ten turns eacj. Score on point with knocked each pin down. Then can take two more shots and get more points together. The winner is the player with the most points.
+    ",Plays a ten turns eacj .
+69,135718,80.0,jp,551858,4,5,29,Writing a description of your family,"
+      My father was a carpententer (chippy). He is short, very thin and he has white hair. My mother was a photographer. She is a fairly fat and have white hair too. They are both retired and use the free time with the children of my sister. Shes eleven years older than me. Shes a little fat and usually angry and she has grey-hair. We are all love soccer.
+    ",Shes a little fat and usually angry and she has grey-hair .
+70,135718,90.0,jp,551864,5,3,35,Labeling photos from a safari,"
+      The monkeys are cute but not friendly. They're dangerous and smart than people. The monkeys in Japan are causing so much trouble in some tourist areas because they're attacking the tourists to take food. Is winter in Japan now, and some monkeys in north of Japan go in the onsen (hotspring). It's very funny see they enjoying the water.
+    ","Is winter in Japan now , and some monkeys in north of Japan go in the onsen ( hotspring ) ."
+71,23380,80.0,jp,595726,4,2,26,Describing routines,"
+      Plays baseball every afternoon. Plays misic at 7 pm. Watches the television at Sundays at 8 pm. Does the homework on Sunday afternoon. Does take a bath in the morning. Sets the table at 7 pm. Feed the dog at 6 am every day. Walk the dog in the evening.
+    ",Plays misic at 7 pm .
+72,23380,80.0,jp,595726,4,2,26,Describing routines,"
+      Plays baseball every afternoon. Plays misic at 7 pm. Watches the television at Sundays at 8 pm. Does the homework on Sunday afternoon. Does take a bath in the morning. Sets the table at 7 pm. Feed the dog at 6 am every day. Walk the dog in the evening.
+    ",Watches the television at Sundays at 8 pm .
+73,23380,80.0,jp,595726,4,2,26,Describing routines,"
+      Plays baseball every afternoon. Plays misic at 7 pm. Watches the television at Sundays at 8 pm. Does the homework on Sunday afternoon. Does take a bath in the morning. Sets the table at 7 pm. Feed the dog at 6 am every day. Walk the dog in the evening.
+    ",Does the homework on Sunday afternoon .
+74,23380,80.0,jp,595726,4,2,26,Describing routines,"
+      Plays baseball every afternoon. Plays misic at 7 pm. Watches the television at Sundays at 8 pm. Does the homework on Sunday afternoon. Does take a bath in the morning. Sets the table at 7 pm. Feed the dog at 6 am every day. Walk the dog in the evening.
+    ",Sets the table at 7 pm .
+75,2662,95.0,jp,611413,13,5,101,Writing about a disaster relief effort,"
+      Dear Mrs. Wakuri, Thanks for your call last night. I appreciate your feedback. I worked on the project one more time today and would like to hear from you soon. Let me make sure about two points. Is it possible that you and Mr. Nishi cover the section 3 so that I can work on section 2 when making our presentation next week. Another one is about the information that you were talking about in our last meeting. Do you still have it? Could you put it down on one or two sheets of paper? I'll attach them to support our ideas in the presentation. Thank you again for your cooperation always. Looking forward to your feedback. Regards, Mika
+    ",Is it possible that you and Mr. Nishi cover the section 3 so that I can work on section 2 when making our presentation next week .
+76,78640,80.0,jp,611715,5,1,33,Planning to attend a music festival,"
+      Hi, I'm going to go to a music festival from 8th Feb to 11th. Its' ticket cost me 9,000yen each. Items I'm going to take to there are below; a tent, T-shirts and shorts, binoculars, etc. I want to watch a lot of J-pops. See you!
+    ","Items I 'm going to take to there are below ; a tent , T-shirts and shorts , binoculars , etc ."
+77,9796,70.0,jp,658969,4,1,25,Writing about what you do,"
+      Our company is located in Kawaguti city in Saitama.Our company mede scientific instruments. I work for this company for twenty years. I'm electrical engineer. I have done the product development. I like my job. Becuses it's creative and difficults. it's not boring. I wish  I keep up make new products.
+    ",Becuses it 's creative and difficults .
+78,9796,60.0,jp,658970,4,2,26,Describing routines,"
+      Plays tennis on Saturday at 11am. Plays Commputer games every evening. Watches TV every night. Does laundrye very day. Does gardening in the morning. Set the table at 6am.
+    ",Does gardening in the morning .
+79,9796,100.0,jp,658988,6,6,46,Writing an email of advice,"
+      Mahjong is a kind of table game. Requires four people to do Mahjong. Mahjong tiles are required for this game. There are 34 kinds in total Mahjong tiles. And so every four tiles per one, this means that 136 tiles in total. Mahjong tiles, the leader have 14 tiles, three followers have 13 tiles each parent. The rest tiles have to be backside to all. This game, make a combination of tiles 14 pieces to take in order tiles that was on the back side. While there are different on the combination of tile, but who can be combined first is to win.
+    ",Requires four people to do Mahjong .
+80,155844,90.0,jp,663180,7,5,53,Taking part in a TV viewing survey,"
+      I live and work in Japan. Let me explain our education system. We start it 3 years old. We have kindergarten for 3 years, elementary school for 6 years, junior high school for 3 years, high school for 3 years, university or college for 4 years. We don't need to take an entry test until public junior high school. Japanese university entry test is very difficult, but graduation exam is very easy. So after admission, times to study decrese. Trends show that it is being reviewed. If we don't study hard, we can't graduate. English classes are increasing too.
+    ",Trends show that it is being reviewed .
+81,39796,95.0,jp,674219,15,1,113,Covering a news story,"
+      Stressed, furious wife allegedly killed husband Yesterday Dave Nelson was killed at his house. The suspect of the murder case is his wife Salina. However, the police is telling us that they will investigate into this case carefully because there is only one witness. According to the police, Salina Nelson said she didnt kill him, and just wanted him to stop shouting. Their neighbor Timothy McClure says he witnessed the entire incident from the window of his house. They argued and then Salina picked up a knife and thrust it to David. Salina was horrified. Salina had a reason to kill her husband. He made Salina mad because of his behaviors against her: he was usually kind and gentle, but he suddenly shouted and hit her after drinking. She often cried and came to Timothys house. Daves mother Marine says Salina was manipulating Dave. Dave was gentle. Marine was in the bathroom peacefully at that time, and suddenly heard a scream. She rushed to the kitchen and found the son was lying on the floor, breeding.
+    ",Daves mother Marine says Salina was manipulating Dave .
+82,39796,100.0,jp,674242,2,4,12,Buying clothes from a catalog,"
+      Creamium has been a brand leader in the ice cream industry for over 25 years most luxurious food brand hope to increase market share in Asia over the next 5 years Gonuts! has established donut company dominated the American industry. hope to gain a bigger market share on the east coast of America before exporting its products abroad.
+    ",has established donut company dominated the American industry .
+83,81473,90.0,jp,676539,10,4,76,Applying to be a fitness trainer,"
+      Property 1: Cottage - 200,000 wonderful view cottage has been recently renovated with a brand new bathroom added. 1 Bed room living room Kitchen Bathroom with shower needs a new roof Property 2 Hamilton house 1.5million history, beauty and seafront. needs some restoration 5 bedrooms only available to interested parties committed to retaining or restoring house to its former glory and can not be demolished Property 3: New Apartments: 160.000 each now only 32 Bedroom available 2 on top floor front and back each with vathy bay views and ground floor front. apartments come ready to be fitted. do not have to make renovations Property 4: Villa and business: 450,000 located in a quiet and traditional corner of the town with bay. Full kitschen telephone connected working holiday accommodation
+    ",needs some restoration 5 bedrooms only available to interested parties committed to retaining or restoring house to its former glory and can not be demolished Property 3 : New Apartments : 160.000 each now only 32 Bedroom available 2 on top floor front and back each with vathy bay views and ground floor front .
+84,81473,80.0,jp,676543,11,2,82,Helping a coworker deal with a phobia,"
+      I love using technology. sometimes it's overwhelming in my life. I have smartphone, laptop, desktop, tablet, iPod. After using those technology, it has completely changed my business life. I often use smartphone contact to my friends and also chatting foreigners. technology affect on my life and made comfortable. I use tablet in bathroom to watch movies and listening music by iPod. those are already part of my body. almost android. I sometimes feel scary when I using technology stuff. because, its naturally harming my body and people might think anything. We have to use carefully.
+    ",sometimes it 's overwhelming in my life .
+85,79590,95.0,jp,680615,4,2,26,Describing routines,"
+      Shun plays soccer on Tuesdays. goes to English school on Wednesdays. goes swimming on Thursdays. watches TV from 7:00 P.M. to 8:00 P.M.  Kazu goes to English school on Thursdays. reads books from 6:00 P.M. to 6:30 P.M.  You feed the dog at 7:00 A.M.  walk the dog along a river at 9:00 A.M.
+    ",goes to English school on Wednesdays .
+86,79590,95.0,jp,680615,4,2,26,Describing routines,"
+      Shun plays soccer on Tuesdays. goes to English school on Wednesdays. goes swimming on Thursdays. watches TV from 7:00 P.M. to 8:00 P.M.  Kazu goes to English school on Thursdays. reads books from 6:00 P.M. to 6:30 P.M.  You feed the dog at 7:00 A.M.  walk the dog along a river at 9:00 A.M.
+    ",goes swimming on Thursdays .
+87,32146,95.0,jp,695187,5,5,37,Filling out an insurance claim form,"
+      I just saw 'Rear Window.' What an amazing movie! 'Rear Window' was made in 1954 and was directed by the famous Alfred Hitchcock. 'Rear Window' is a dark story, like most Hitchcock movies. L.B. is played by James Stewart. L.B. is a photographer, but his leg is broken. He has to stay home, so he watches his heighbors through their windows. I felt sorry for his poor neighbors! Soon, L.B.begins using his camera to fight evil. I saw the remake in 1998, but it's not the same. Daryl Hammah's acting was dreadful!
+    ",is played by James Stewart .
+88,32146,95.0,jp,695187,5,5,37,Filling out an insurance claim form,"
+      I just saw 'Rear Window.' What an amazing movie! 'Rear Window' was made in 1954 and was directed by the famous Alfred Hitchcock. 'Rear Window' is a dark story, like most Hitchcock movies. L.B. is played by James Stewart. L.B. is a photographer, but his leg is broken. He has to stay home, so he watches his heighbors through their windows. I felt sorry for his poor neighbors! Soon, L.B.begins using his camera to fight evil. I saw the remake in 1998, but it's not the same. Daryl Hammah's acting was dreadful!
+    ","is a photographer , but his leg is broken ."
+89,170157,95.0,jp,735708,4,5,29,Writing a description of your family,"
+      Dear Mark, I really enjoy myself at your home party tonight.  Thanks a lot for inviting me. Your parents and kids are really nice and I hope to see you again soon.  Thanks again.  Katie
+    ",Thanks a lot for inviting me .
+90,1113,90.0,jp,788920,8,5,61,Selling items in an online auction,"
+      I think internet is the thing that was affected my life most in my life. Windows 95 was released almost same time. After I enjoyed internet, my life changed to easy way. Especially, when I want to search something, internet provide me the answer very easily. Before internet, when I searched something, I looked paper or call my friend. But after internet, I only input key word to internet explorer. It is time saving and decrease my stress. In Japan, at the time internet was spreading, Windows 95 was released just same time. Before windows 95 PC, it was not useful. I am happy to use Windows PC and internet.
+    ",Windows 95 was released almost same time .
+91,135241,100.0,jp,791428,2,4,12,Buying clothes from a catalog,"
+      Creamium 'Brand leader in the ice cream industry for over 25 years. ' One of the most luxurious food brands to come out of Europe 'Hope to increase its market share in Asia over the next 5 years.  Gonuts! 'Newly established donut company from the US. 'Dominate the American donut industry, beating all competitors.  'Hope to gain a bigger market share on the east coast of America before exporting its product abroad.%%
+    ",Gonuts !
+92,20303,80.0,jp,818156,10,4,76,Applying to be a fitness trainer,"
+      #1 cottege: EUR 200,000. Not at seafront. Renovated bathroom but a new roof needed. Just one bedroom. Land is big enough to extend. #2 Hamilton house: EUR 1.5M. Beauty and seafront.115 years of history. Need some restoration. Retains a hotelier license from EOT. Enough land to build another house right on the seafront. Five bedrooms. #3 New apartments: EUR 160,000 for each. 3 x 2 bedrooms. Can enjoy Vathy bay but not seafront. No reatration is needed because it's a new apartment. #4 Villa and business: EUR 450,000. An existing and very successful rental business. Only a few minutes walk to the center of the town, and close to the surounding beaches. 3 apartments and 1 studio.  8 beds.
+    ",Retains a hotelier license from EOT .
+93,151645,90.0,jp,831850,4,2,26,Describing routines,"
+      Kaku's routine Has a breakfast at 7am. Goes to work at 8am. Has dinner at 7pm. My routine Do laundry on Tuesday afternoon. Do house working in the morning. Cook dinner at 6pm. Surf internet at 9pm every day. X min's routine Feeds the dog at 8am every day. Walks the dog in the afternoon. Feeds the dog again 5pm every day.
+    ",Feeds the dog again 5pm every day .
+94,140852,90.0,jp,836324,14,2,106,Choosing a renewable energy source,"
+      I would like to use Golf and Century. The perfect team. The main target of the luxury watch owners are rich and middle and senior aged male. It laps the people who play golf mainly for the business communication with their customers or colleagues. Golf is a sport and also a social intercourse. Especially these target clients are interested in not only owning a luxury watch but also understanding its mechanical detail. It suites just our sales points; Precision, Heavy duty, Mechanical. Lets use a winner of the Open; the most severe condition as our brand character. On the ad, his upper body is closed up with slow motion and he swings a club through with much power under rainy, windy condition. It will catch the heart of clients with a surprise. Moreover the same watch is also suit for the formal situation in the relaxed and warm club house which has a fireplace. Lets attack the core target and generate a new brand image: Active but Formal.
+    ",Lets attack the core target and generate a new brand image : Active but Formal .
+95,73303,90.0,jp,933442,3,2,18,Describing a friend's weekend routine,"
+      I live in Chita-shi, Japan, about 550 kilometers from Tokyo. is on the northeast coast of the Pacific Ocean. A very nice city, calm and blossom in the spring. There are areas of fishing and boat rides on the beach. Some people come from afar to harvest small clams in the summer.
+    ",is on the northeast coast of the Pacific Ocean .
+96,68852,80.0,jp,950385,14,5,109,Talking a friend out of a risky action,"
+      Good afternoon. Thank you for letting me have some of your time. As you know, were here today to celebrate the wedding of Ken and Kimiyo. I wish to express my gratitude to everybody gathered here. Im Tom, the grooms best friend. Id like to offer a toast to this great couple. Lets start with our relationship between Ken and me. I clearly remember when I met him at a junior high school. He was a transfer from another school. His previous school was very famous for baseball fan. I also belong to the baseball club at my school. At that time, I was surprised how fast ball he had been able to throw. I thought that his ambition was to become a big-time baseball player. He made a lot of legend in our school. Since then, Ken has been getting along with me. However, he has been working for huge pharmaceutical company now. Lets move on to his personality. In daily life, Hes always modesty and friendly for all the people. Ive never seen that he look down on anyone. In addition, while hes working at the office, he has tremendous knowledge of medicine. Finally, I wish your love grow forever.%% Everyone, lets toast to the health, happiness and future of this amazing couple. To Ken and Kimiyo!
+    ",Lets start with our relationship between Ken and me .
+97,43436,90.0,jp,992592,4,3,27,Writing a party invitation,"
+      There was a theft in my city last year. Thieves broke into a jewerly store and stole costly jewelry. The next morning an employee discovered the horrible sight.  He informed the police about it. Two days later a similer case occured next to my city. The police are still working on the caces.
+    ",Thieves broke into a jewerly store and stole costly jewelry .
+98,149607,90.0,jp,998467,1,3,3,Writing an online profile,"
+      My city is very beautiful, they a lot of building and shops. Is a very expensive city, but I like this.
+    ","Is a very expensive city , but I like this ."
+99,100222,95.0,jp,1029324,5,2,34,Writing a holiday postcard,"
+      The Fuji Mt. is the highest in Japan. That is very big and beautiful. Many people go to Mt. Fuji every year. But it's very dangerous in winter. There is very strong wind. So you must be careful to go Mt. Fuji in winter.
+    ",is the highest in Japan .
+100,68429,95.0,jp,1044552,13,4,100,Giving advice about budgeting,"
+      Green business is important to me. If a business is truly green, then I think it is doing its part to be environmentally friendly. To be truly gerrn, a business should consider using renewable energy, such as solar or wind power, or an office with a green roof. Businesses that sell green products have to conserve natural resources as much as possible by using organic, recycled and biodegradable materials in their products and packaging. I don't go out of my way to buy green products, but I will pay a lot more for certain items. It's not always easy to find truly green products in my neighborhood, and  I don't want to waste gasoline by driving around to byu green products. However, I am concerned about the food I eat, so I make sure to shop at green grocery stores. I'll sacrifice other luxuries in my life to make sure I'm eating healthy food. Of course, you have to take a company at its word that the product is truly green, when is why I buy from companies I know a lot about.
+    ","Businesses that sell green products have to conserve natural resources as much as possible by using organic , recycled and biodegradable materials in their products and packaging ."
+101,32402,90.0,jp,1047736,4,3,27,Writing a party invitation,"
+      I've herd use to be a thief frequently in my neighborhood. My neighborhood are many elderly people.There are living alone. There are very weak and daily life is punctual. Therefore the thief is easy way to aim there. Recently I moved here with my dog. My dog ??has been useful as a security dog.
+    ",has been useful as a security dog .
+102,81008,80.0,jp,1102747,12,2,90,Entering a writing competition,"
+      Now our company trying to expand our business globaly, and fortunatly we are getting some results. But as a result, the number of our employees are rapidly increasing. So to make sure that our employees are on the same page, we have to make something in common. Therefore I would like to propose that we shoud make M.V.V. M.V.V. means Mission, Vision, Value. Mission will help our employees to understand why our company exist, what we want to do through our business. And Vision will help our employees to understand which goal we should achieve. And Value will help our employees to make thier decision about daily business. In regard to important business decisions, management menbers would judge. But about daily business, management have to empower employees. If our employees have same value in common, their priority would be similer, and our company bring same quality to our customers.
+    ","means Mission , Vision , Value ."
+103,134308,80.0,jp,1103557,11,3,83,Writing an advertising blurb,"
+      When I was a child, my parents always told me didnt waste time to do some no meaningless thing, and read more books. I tried to do what they told me. But I didnt think I was very happy at that time. I met my first love in my high school. I took a lot time to stay with him. I couldnt concentrate on my study, So I failed to enter a university first time. I took another year then went to university for continuing the study. I broken up with my boy friend, I have met the new faces, I dated someone, but I cant fall love in with each other as my first love. Sometimes Its a puzzle to me what kind of thing is the most important thing. What I am doing can be useful is the best thing I should do. For example, I work hard in the company that can contribute to the society. I stay with others that can share happy with them.
+    ",Sometimes Its a puzzle to me what kind of thing is the most important thing .
+104,134308,95.0,jp,1103574,14,2,106,Choosing a renewable energy source,"
+      Dear Elizabeth, After we seriously discussed three proposals you attached, we have reached a consensus with one of images and slogans for this ad campaign for Century watches. I hope you will like the one we selected. The Century watches have been definitely loved by various people since it was born. Century watches is a classic and famous brand and the owners of Century watch also are regarded as the people who is elegant and noble. Thats the reason why the Century watches are owned by the celebrity from various industries. The Century watches are also charming and glamour, it can bring the attraction and personal magnetism. Thats the reason why Century is the most well-known watchmaker worldwide. Considering Centurys trend of being with trendy younger, we contemplated the idea of bringing the trendy younger into the campaign. We decided, however, that attracting the trendy younger to have the watch was more important than anything. For this reason, we decided that the ad would feature a lady with a vine glass surrounding by the men, attractive and luxury, and with a slogan that delivers the most attractive message to let everyone has the Century watch. That is YOUR GLAMOUR, YOUR CENTURY.%% Were looking forward to getting any feedback from you about our decision.
+    ",Thats the reason why Century is the most well-known watchmaker worldwide .
+105,40398,95.0,jp,1125880,5,2,34,Writing a holiday postcard,"
+      I live in Japan. Japan is one of the developed countiries, but there is much nature in the country. Japan has the four seasons. In spring, you can see many beautiful flowers. In summer, you enjoy swimming in the see. Leaves turn red and yellow in fall. In winter, it snows and you can play many winter sports.
+    ",Leaves turn red and yellow in fall .
+106,132197,95.0,jp,1151608,4,3,27,Writing a party invitation,"
+      There was a theft in a nearby shopping mall. Thieves broke into the windows at midnight and they stole expensive watches. Clarks arrived there in the next morning,all of watches gone. Police discovered two men and arrested. I was so scared to hear that.
+    ",Thieves broke into the windows at midnight and they stole expensive watches .
+107,141529,95.0,jp,1177083,1,3,3,Writing an online profile,"
+      Kobe City is beautihul. Kobe is a goog place surrounded by mountains and the sea. Meriken Park is beautiful, and the akashiyaki is very delicious. Tourists come to a lot of Kobe City. Kobe is nice city.
+    ",Tourists come to a lot of Kobe City .
+108,157338,90.0,jp,1185524,2,1,9,Describing your favorite day,"
+      I'm a housewife. I usually go to a supermarket in the morning with my daughter. Sometimes we buy some bread for lunch at a bakary. After lunch, I get my daughter to take a nap.
+    ",Sometimes we buy some bread for lunch at a bakary .

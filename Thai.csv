@@ -1,0 +1,19 @@
+,learner_id,grades,nationality,writing_id,levels,unit,topic_id,topic_text,passage,query_sentence
+0,169892,100.0,th,31666,1,7,7,Writing labels for a clothing store,"
+      A blue shirt 20 dollar. A gray shirt 35 dollar. A orange dress 55 dollar. A black dress 45 dollar. Skirts 25 dollar. A pink jacket 42 dollar.
+    ",Skirts 25 dollar .
+1,129184,92.0,th,168065,4,2,26,Describing routines,"
+      Hi housekeeper, I would have already set up about your routine. 1. Cleans the house everyday. 2. Mops the floor once a week. 3. does laundry at the weekend and does ironing on Sunday. 4. helps me cleaning my dog after walking the dog on Wednesday morning. 5. Does the gardening with my wife every day in the morning. your sincerely, Manas
+    ",Does the gardening with my wife every day in the morning .
+2,95290,98.0,th,261831,2,4,12,Buying clothes from a catalog,"
+      Hi, Kaew. sneakers 79.00 dollar T-shirt 30.00 dollar shoes 59.00 dollar sweater 69.00 dollar belt 29.00 dollar pants 39.39 dollar shirt 30.00 dollar Which do you will take it? Lets me know.
+    ",Lets me know .
+3,173573,90.0,th,472773,4,2,26,Describing routines,"
+      In every day morning: Make breakfast and set the table at 7.30 am. Does gardening. Walks the dog. Does the housewoke and mops the floor on Monday,Wednesday and Friday afternoon. Does the laundry on Tuesday afternoon. Does the ironing on Thursday afternoon and washes the dog in the evening. I every day evening: Make dinner at 6pm and set the table at 7.30pm.
+    ","Does the housewoke and mops the floor on Monday , Wednesday and Friday afternoon ."
+4,173573,90.0,th,472773,4,2,26,Describing routines,"
+      In every day morning: Make breakfast and set the table at 7.30 am. Does gardening. Walks the dog. Does the housewoke and mops the floor on Monday,Wednesday and Friday afternoon. Does the laundry on Tuesday afternoon. Does the ironing on Thursday afternoon and washes the dog in the evening. I every day evening: Make dinner at 6pm and set the table at 7.30pm.
+    ",Does the laundry on Tuesday afternoon .
+5,173573,90.0,th,472773,4,2,26,Describing routines,"
+      In every day morning: Make breakfast and set the table at 7.30 am. Does gardening. Walks the dog. Does the housewoke and mops the floor on Monday,Wednesday and Friday afternoon. Does the laundry on Tuesday afternoon. Does the ironing on Thursday afternoon and washes the dog in the evening. I every day evening: Make dinner at 6pm and set the table at 7.30pm.
+    ",Does the ironing on Thursday afternoon and washes the dog in the evening .
